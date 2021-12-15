@@ -11,3 +11,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@font-face {
+  font-family: "RecoletaMedium";
+  src: local("RecoletaMedium"),
+    url("./fonts/Recoleta-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "RecoletaBold";
+  src: local("RecoletaBold"),
+    url("./fonts/Recoleta-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+  
+}
+
+
+@font-face {
+  font-family: "RecoletaLight";
+  src: local("RecoletaLight"),
+    url("./fonts/Recoleta-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+  
+}
+
+
+@font-face {
+  font-family: "RecoletaAltBold";
+  src: local("RecoletaAltBold"),
+    url("./fonts/RecoletaAlt-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+  
+}
+
+
+@font-face {
+  font-family: "RecoletaAltMedium";
+  src: local("RecoletaAltMedium"),
+    url("./fonts/RecoletaAlt-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+  
+}
+
+
+
+@font-face {
+  font-family: "RecoletaAltLight";
+  src: local("RecoletaAltLight"),
+    url("./fonts/RecoletaAlt-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+  
+}
+
+
+
+
+
+
+
+
+
