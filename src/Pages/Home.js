@@ -85,6 +85,7 @@ alt="page"
 
 <a href="https://react-bootstrap.github.io/layout/grid/" target= "blank">
 <img
+
 style={{width:140, height:149, margin:3, position:"relative"}} 
 src={Appstorebutton}
 alt="b"
@@ -105,7 +106,7 @@ alt="y"
 <h3 className="homepagesubtitle">Shop Quality Groceries & Create Grocery Lists<br/>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h3> 
 
  <p className='homepageaftersub'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- Lorem Ipsum . Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
+ Lorem Ipsum . Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
 
  <h4 className='homepageyear' style={{fontFamily:"RecoletaBold"}}>©2021</h4>
 
@@ -164,7 +165,7 @@ style={{position:"absolute", marginLeft:190, marginTop:140, width:230}}
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown . </p>
 
 
-<div style={{ flexDirection:"row"}} >
+<div className='lastbuttonrow' >
 
 <a href="https://react-bootstrap.github.io/layout/grid/" target= "blank">
 <img
@@ -185,18 +186,22 @@ alt="y"
 
 </div> 
 
-</ReactBootStrap.Col>
+</ReactBootStrap.Col> 
 
-
+<div className='imagehack'>
 <ReactBootStrap.Col xs={7} md={6}>
-         
-<ReactBootStrap.Image
+
+
+<img
 className='groceryimageone'
 src={groceryimageone}
 alt="page"
 />
 
+ 
 </ReactBootStrap.Col>
+</div>
+
 </ReactBootStrap.Row>
 
 
@@ -205,12 +210,13 @@ alt="page"
 
 <div style={{border:30}}>
 <h6 className='textunderunder'>
-Did you know it costs just ₦1000 to have your groceries delivered anywhere in Lagos?<br/>
-and you Could Create Your Own Grocery List? And Have It Delivered On Any<br/> Day Of Your Choosing Even At Work...
+Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?
+ And you could create Your own grocery list? <br className='break'/>
+Also have it delivered on any day of your choosing even at work.
 
 </h6>
 
-<h6 className='textunderfinal'>Imagine a box full of ingredients for Egusi soup or just<br/>fresh bread and a cup of freshly squeezed juice.</h6>
+<h6 className='textunderfinal'>Imagine a box full of ingredients for Egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
 </div>
 
 

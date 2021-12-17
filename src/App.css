@@ -1,0 +1,1195 @@
+
+.headergardentext{
+  color: black;
+  font-family:RecoletaBold;
+  font-size: 35px;
+}
+
+.gardentextdot{
+  color: orange;
+}
+
+.headerabouttext{
+  color: black;
+  font-family: RecoletaMedium;
+    
+}
+
+.headercontacttext{
+color: black;
+font-family: RecoletaMedium;
+  
+}
+
+.homepagediv{
+  height:100%;
+  background-color: #f1eae0;
+  padding: 60px; 
+}
+
+.homepageimage{
+  min-width: 100%;
+  min-height: 115%;
+  background-size: contain;
+  background-position: center;
+  height: 35px;
+  position: absolute;  
+}
+
+.homepagetitle{
+  
+  padding-top: 40px;
+  text-align: left;
+  color:#33584A;
+  font-size: 135px;
+  font-family:RecoletaBold;  
+}
+
+.homepagenexttitle{
+font-family: RecoletaMedium;
+color:#33584A;
+padding-top: 5px;
+}
+
+
+.iconrow{
+
+}
+
+.downloadbuttonrow{
+  padding-top: 40px;
+  flex-direction: row;
+  
+}
+
+
+
+.homepagesubtitle{
+  position: relative;
+  color:#33584A;
+  font-size: 23px;
+  padding-top: 10px;
+  font-family: RecoletaMedium;
+  
+  
+  
+}
+
+.homepageaftersub{
+  font-family: RecoletaAltLight;
+  font-size: 19px;
+  color:#33584A;
+  position: relative;
+  
+}
+
+.homepageyear{
+  position: relative;
+  color:#33584A;
+  
+}
+
+
+.lagostext{
+  text-align: center;
+  color:#33584A;
+  margin-top: 310px;
+  font-size: 40px;
+  margin-bottom: 250px;
+  position: relative;
+  font-family: RecoletaBold;
+}
+
+.availabletext{
+
+position: relative;
+font-family: RecoletaBold;
+font-size: 35px;
+color:#33584A;
+}
+
+.availablesub{
+  position: relative;
+   font-family: RecoletaAltLight;
+    font-size:20px;
+    color:#33584A;
+    
+}
+
+.appstorebutton{
+  width:12%;
+  height:150px;
+    position: relative;
+}
+
+.googleplaybutton{
+
+}
+.groceryimageone{
+  width:500px;
+   height:550px;
+   padding: 10px;
+   margin-left: 130px;
+  
+   
+}
+
+.textunder{
+  margin-top:190px;
+  text-align: left;
+  font-family: RecoletaAltBold;
+  font-size:55px;
+  margin-bottom: 50px;
+  color:#33584A;
+  line-break: auto;
+  
+}
+
+.textunderfinal{
+  text-align: left; 
+  color:#33584A;
+  font-family: RecoletaAltMedium;
+  font-size: 23px;
+  margin-bottom: 190px;
+  margin-top: 25px;
+}
+
+
+.textunderunder{
+  font-family: RecoletaAltLight;
+  font-size:21px;
+  margin-bottom: 0px;
+  text-align: left; 
+  color:#33584A;
+}
+
+.lastbuttonrow{
+  flex-direction: row;
+}
+
+
+.whyrow{
+margin-top: 200px;
+}
+
+.groceryimagetwo{
+  width:500px;
+   height:550px;
+   padding: 10px;
+   margin-top: 50px;
+  
+}
+
+.whygarden{
+  font-family: RecoletaBold;
+   font-size:45px;
+   margin-top: 65px;
+   color:#33584A;
+
+}
+
+.deliverytext{
+  margin-top:50px;
+   font-family: RecoletaMedium;
+   font-size:30px;
+   padding: 15px;
+   color:#33584A;
+}
+
+.deliveryicon{
+font-size: 85px;
+}
+
+.qualitytext{
+  font-family: RecoletaMedium;
+  font-size:30px;
+  padding: 15px;
+  color:#33584A;
+
+}
+
+.qualityicon{
+  font-size: 75px;
+}
+
+.listtext{
+  font-family: RecoletaMedium;
+  font-size:30px;
+  padding: 15px;
+  margin-bottom: 250px;
+  color:#33584A;
+}
+
+.listicon{
+
+  font-size: 65px;
+}
+
+.productcategories{
+  text-align: center;
+   font-family: RecoletaBold;
+   color:#33584A;
+}
+.categorylineup{
+margin-bottom: 120px;
+}
+
+.categoriesline{
+margin-bottom: 190px;
+}
+
+.productcategoriesrow{
+
+}
+
+.newsletterrow{
+
+}
+
+.subscribetext{
+
+  margin-top: 300px;
+
+}
+
+.inputrow{
+
+}
+
+.placeholder{
+  
+   border-color: transparent;
+   margin-top:40px;
+  width:320px ;
+}
+
+.arrowright{
+font-size: 22px;
+margin-top: 40px;
+margin-left:10px;
+}
+
+.placeholderline{
+  width:350px;
+   margin-top:20px;
+}
+
+.groceryimagethree{
+  width:500px;
+   height:550px;
+}
+
+.bottomhorizontalline{
+margin-top: 240px;
+margin-bottom: 120px;
+}
+
+.bottomgardentext{
+  font-family: RecoletaBold;
+
+}
+
+.bottomgardenbutton{
+  color: orange;
+}
+
+.instagram{
+  font-family: RecoletaMedium;
+}
+
+.twitter{
+  font-family: RecoletaMedium;
+}
+
+.address{
+  color: black;
+   margin-top:30px;
+  font-size:18px;
+  font-family: RecoletaLight;
+
+}
+
+.facebook{
+font-family: RecoletaMedium;
+
+}
+
+.phonenumber{
+  color: black;
+   margin-top:30px;
+  font-size:18px;
+  font-family: RecoletaLight;
+
+}
+
+.email{
+  color: black;
+   font-size:18px;
+   font-family: RecoletaLight;
+
+}
+
+.nextbottomhorizontalline{
+margin-bottom: 120px;
+
+}
+
+.mastercard{
+  font-size:40px;
+   margin:10px;
+
+}
+
+.visa{
+  font-size:40px;
+   margin:10px;
+
+}
+
+.flutterwave{
+  position: absolute;
+
+    margin-top:24px;
+
+}
+
+.copyright{
+  color: black;
+   font-size:18px;
+    text-align: center;
+     margin-top:24px;
+     font-family: RecoletaLight;
+}
+
+.earthgreen{
+  color: black;
+   font-size:18px;
+    text-align: center;
+    margin-top:24px;
+    font-family: RecoletaBold;
+
+}
+
+.recyclelogo{
+  color: black;
+  font-size:30px;
+}
+
+
+
+.topflower{
+  margin-left: 599px;
+  width:7%;
+  position: absolute;
+  margin-top: 20px;
+}
+
+.flowertwo{
+  position: absolute;
+   margin-top:170px;
+    margin-left:520px;
+    width:6%;
+}
+
+.green{
+  position: absolute;
+   margin-top:320px;
+    margin-left:390px;
+    width:7%;
+      
+}
+
+.lagosbling{
+  position: absolute;
+   margin-top:225px;
+  margin-left:900px;
+  width:9%;
+}
+
+.firstblackstar{
+  position: absolute;
+   margin-top:650px;
+    margin-left:1105px;
+     width:10%;
+}
+
+.secondblackstar{
+  position: absolute;
+  width:10%;
+}
+
+.downarrow{
+  position: absolute;
+   margin-left:300px;
+    margin-top:50px;
+     width:7%;
+}
+
+.thirdblackstar{
+  position: absolute;
+   margin-left:420px;
+    width:10%;
+}
+
+.aboutpagediv{
+  height:100%;
+  background-color: #F8E599;
+  padding: 60px; 
+}
+
+.centersvg{
+  position: absolute;
+   margin-top:80px;
+}
+
+.aboutustitle{
+  text-align: left;
+  font-family: RecoletaBold;
+   font-size:70px;
+    margin-top:90px;
+    color: black;
+}
+
+.gardenstory{
+  text-align: left;
+   font-family: RecoletaMedium;
+  margin-bottom:250px;
+  color: black;
+}
+
+.doorstep{
+  font-family: RecoletaLight;
+   font-size:20px;
+}
+
+.better{
+  font-family: RecoletaMedium;
+   font-size:20px;
+}
+
+.info{
+  font-family: RecoletaLight;
+  font-size:22px;
+  margin-top:95px;
+}
+
+.subinfo{
+  font-family: RecoletaMedium;
+}
+
+.aboutstar{
+  position: absolute;
+   margin-top:55px;
+  margin-left:450px;
+   width:7%;
+}
+
+.abouthorizontal{
+  margin-bottom:200px;
+   margin-top:100px;
+}
+
+.foundertitle{
+  text-align: left;
+   font-family: RecoletaBold;
+    font-size:70px;
+     color: black;
+}
+
+.nextaboutstar{
+  position: absolute;
+  margin-left:430px;
+   width:9%;
+}
+
+.ceoimage{
+  width:500px;
+   height:500px;
+}
+
+.ceoname{
+  font-family: RecoletaMedium;
+  margin-top:40px;
+  font-size:20px;
+}
+
+
+.contactpagediv{
+  height:100%;
+  padding: 60px;  
+  background-color: #065697;
+}
+
+.contacttitle{
+  color:#e65233;
+  font-size:130px;
+   font-family: RecoletaBold;
+  margin-top:50px;
+}
+
+.contactemail{
+  margin-top:40px;
+   font-size:30px;
+    color: black;
+    text-decoration:none;
+
+}
+
+.emailline{
+  width:300px;
+}
+
+.caretext{
+  margin-top:50px;
+   font-family: RecoletaMedium;
+    color: #e65233;
+     font-size:30px;
+}
+
+.contactaddress{
+  font-size:23px;
+   margin-top:50px;
+    font-family: RecoletaLight;
+}
+
+.contactinstagram{
+  margin-top:70px;
+  font-family: RecoletaMedium;
+   color:black;
+}
+
+.contacttwitter{
+  margin-top:30px;
+  font-family: RecoletaMedium;
+   color:black;
+}
+
+.contactfacebook{
+  margin-top:30px;
+  font-family: RecoletaMedium;
+   color:black;
+}
+
+
+
+
+@media only screen 
+and (min-width:0px)
+and (max-width:480px) {
+
+
+  .homepagediv{
+    padding:12px
+  }
+
+  .headergardentext{
+    font-size: 24px;
+  }
+
+  .homepagetitle{
+    font-size: 70px;
+    margin-top: 55px;
+  }
+
+  .homepagenexttitle{
+    font-size: 20px;
+  }
+
+  .homepagesubtitle{
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  .downloadbuttonrow{
+    padding-top: 0px;
+  
+  }
+  .topflower{
+    margin-left: 280px;
+    margin-top: 58px;
+    width:17%;
+  }
+  .homepageaftersub{
+    font-size: 17px;
+  }
+
+  .lagostext{
+    margin-top: 200px;
+    font-size: 25px;
+    margin-bottom: 180px;
+  }
+  
+  .availabletext{
+    font-size: 23px;
+  }
+
+  .availablesub{
+    font-size: 17px;
+    
+  }
+  .groceryimageone{
+    
+    width:350px;
+    height:450px;
+    margin-left: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    
+    
+  }
+
+  .imagehack{
+    text-align: center;
+    margin:10px auto;
+  }
+
+ 
+
+  .textunder{
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 90px;
+  }
+
+  .textunderunder{
+    font-size: 17px;
+  }
+
+  .textunderfinal{
+    font-size: 20px;
+    margin-bottom: 60px;
+    margin-top: 20px;
+  }
+
+  .break{
+    display: none;
+  }
+
+  .groceryimagetwo{
+    width:350px;
+    height:450px;
+    margin-top:25px;
+    padding: 0px; 
+  }
+  .whygarden{
+    font-size: 29px;
+    margin-top: 90px;
+    text-align: center;
+  }
+
+  .deliverytext{
+    font-size: 19px;
+  
+  }
+.deliveryicon{
+  font-size: 39px;
+}
+
+.qualityicon{
+  font-size: 39px;
+}
+
+.qualitytext{
+  font-size: 19px;
+  
+}
+
+.listicon{
+  font-size: 39px;
+}
+
+.listtext{
+  font-size: 19px; 
+  margin-bottom: 170px;
+  
+}
+.productcategories{
+  font-size: 7px;
+}
+
+.subscribetext{
+  margin-top: 180px;
+}
+
+.categorylineup{
+  
+}
+
+.productcategories{
+  font-size: 18px;
+  
+}
+
+.placeholder{
+  width:270px
+}
+
+.placeholderline{
+  width:290px;
+}
+
+.bottomhorizontalline{
+  margin-top: 150px;
+}
+
+.bottomgardentext{
+  font-size: 22px;
+}
+
+.instagram{
+  font-size: 18px;
+  margin-top: 45px;
+}
+
+.twitter{
+  font-size: 18px;
+}
+.address{
+  font-size: 16px;
+}
+
+.facebook{
+  font-size: 18px;
+}
+.phonenumber{
+  font-size: 14px;
+}
+.email{
+  font-size: 16px;
+}
+
+.mastercard{
+  font-size: 30px;
+  margin: 5px;
+}
+
+.visa{
+  font-size: 30px;
+  margin: 8px;
+  
+}
+
+.flutterwave{
+  width:80%;
+  margin-top: 5px;
+  position: relative;
+
+}
+
+.copyright{
+  font-size: 12px;
+  
+}
+.earthgreen{
+  font-size: 14px;
+}
+
+.recyclelogo{
+  font-size: 38px;
+}
+
+.green{
+  margin-left: 20px;
+  margin-top: 260px;
+  width:12%;
+}
+
+.flowertwo{
+  margin-left: 170px;
+  margin-top: 110px;
+  width:16%;
+}
+
+.lagosbling{
+  margin-left: 240px;
+  width:25%;
+  margin-top: 290px;
+}
+
+.firstblackstar{
+  margin-left: 1px;
+  margin-top: 900px;
+  width:23%;
+}
+
+.secondblackstar{
+  width:23%;
+}
+
+.downarrow{
+  width: 14%;
+  margin-top: 30px;
+  margin-left: 170px;
+}
+
+.categoriesline{
+  margin-bottom: 70px;
+}
+
+.thirdblackstar{
+  width:23%;
+  margin-left: 0px;
+  margin-top: 30px; 
+}
+
+.groceryimagethree{
+  width:350px;
+  align-self: center;
+  height:450px;
+  margin-top: 70px;
+}
+
+.headerabouttext{
+  font-size: 21px;
+}
+
+.headercontacttext{
+  font-size: 21px;
+}
+
+.aboutpagediv{
+  padding:15px; 
+}
+
+.aboutustitle{
+  font-size: 50px;
+  margin-top: 80px;
+}
+.gardenstory{
+  font-size: 19px;
+  margin-bottom: 100px;
+}
+
+.centersvg{
+  width:50%;
+}
+
+.doorstep{
+  font-size: 17px;
+}
+
+.better{
+  font-size: 20px;
+}
+
+.info{
+  font-size: 17px;
+}
+
+.subinfo{
+  font-size: 20px;
+}
+
+.aboutstar{
+  margin-left: 0px;
+  width:23%;
+}
+
+.abouthorizontal{
+  margin-top: 180px;
+  margin-bottom: 110px;
+}
+
+.foundertitle{
+  font-size: 50px;
+  margin-top: 10px;
+}
+
+.nextaboutstar{
+  margin-left: 0px;
+  width:23%;
+  margin-top: 40px;
+}
+
+.ceoimage{
+  width: 350px;
+  height:450px;
+  margin-top:90px;
+
+}
+
+.ceoname{
+  font-size: 17px;
+}
+
+.contactpagediv{
+  padding: 15px;
+}
+
+.contacttitle{
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.contactemail{
+  font-size: 25px;
+  
+}
+
+.caretext{
+  font-size: 25px;
+}
+
+.contactaddress{
+  font-size: 17px;
+}
+}
+
+
+@media only screen 
+and (min-width:480px)
+and (max-width:768px) {
+
+
+  .homepagediv{
+  padding: 19px;
+  }
+
+  .downloadbuttonrow{
+    display: none;
+  }
+  
+
+  .headergardentext{
+    font-size: 25px;
+  }
+
+  .homepagetitle{
+    font-size: 85px;
+  }
+
+  .homepagenexttitle{
+    font-size: 20px;  
+  }
+
+  .homepagesubtitle{
+   padding-top: 86px;
+   font-size: 20px; 
+  }
+
+  .topflower{
+    margin-left: 380px;
+  }
+
+  .flowertwo{
+    margin-top: 50px;
+    margin-left: 350px;
+  }
+
+  .green{
+    margin-left: 90px;
+    margin-top: 200px;
+  }
+
+  .lagosbling{
+    margin-left: 450px;
+  }
+
+  
+
+  .homepageaftersub{
+    font-size: 17px;
+    display: none;
+  }
+
+  .lagostext{
+    font-size: 30px;
+    margin-top: 130px;
+  }
+
+  .availabletext{
+    font-size: 30px;
+  }
+
+  .availablesub{
+    font-size: 17px;
+  }
+
+  .groceryimageone{
+    
+    width:300px;
+    height: 350px;
+    margin-top: 150px;
+    
+  }
+
+  .firstblackstar{
+    margin-left: 550px;
+  }
+
+.thirdblackstar{
+  margin-left: 230px;
+  margin-top: 550px;
+}
+
+  .lastbuttonrow{
+    flex-direction: column;
+  }
+
+
+  .textunder{
+    font-size: 35px;
+  }
+
+  .textunderunder{
+    font-size: 17px;
+  }
+
+  .textunderfinal{
+    font-size: 20px;
+  }
+
+  .groceryimagetwo{
+    width:300px;
+    height: 350px;  
+    align-self: flex-start;
+  }
+
+  .whygarden{
+    font-size: 30px;
+  }
+
+  .deliverytext{
+    font-size: 20px;
+  }
+
+  .deliveryicon{
+    font-size: 45px;
+  }
+
+  .qualityicon{
+    font-size: 45px;  
+  }
+
+  .qualitytext{
+    font-size: 20px;
+  }
+
+  .listicon{
+    font-size: 45px;  
+  }
+
+  .listtext{
+    font-size: 20px;
+  }
+
+  .productcategories{
+    font-size: 20px;
+  }
+
+  .categoriesline{
+    margin-bottom: 50px;
+  }
+
+  .groceryimagethree{
+    width:300px;
+    height: 350px;  
+    align-self: flex-end; 
+    margin-top: 600px;
+  }
+
+  .bottomhorizontalline{
+    margin-top: 40px;
+  }
+
+  .bottomgardentext{
+    font-size: 25px;
+  }
+
+  .instagram{
+    font-size: 17px;
+  }
+
+  .twitter{
+    font-size: 17px;
+  }
+
+  .facebook{
+    font-size: 17px;
+  }
+
+  .address{
+    font-size: 12px;
+  }
+
+  .phonenumber{
+    font-size: 12px;
+  }
+
+  .email{
+    font-size: 11px;
+  }
+
+  .aboutpagediv{
+    padding: 19px;
+  }
+
+.ceoimage{
+  margin-top: 20px;
+}
+
+.contacttitle{
+  font-size: 75px;
+}
+
+.caretext{
+  font-size: 25px;
+  margin-top: 60px;
+}
+
+.contactaddress{
+  font-size: 15px;
+}
+
+.contactpagediv{
+  padding:19px;
+}
+}
+
+
+@media only screen 
+and (min-width:768px)
+and (max-width:1280px) {
+
+
+.homepagediv{
+  padding: 13px
+}
+
+
+  .downloadbuttonrow{
+    display: none;
+  }
+
+  .homepagesubtitle{
+    margin-top: 100px;
+  }
+
+  .groceryimageone{
+    margin-left: 0px;
+  }
+
+  .lagosbling{
+    margin-left: 600px;
+    margin-top: 500px;
+  }
+
+  .green{
+    margin-left: 200px;
+  }
+
+  .firstblackstar{
+    margin-left: 800px;
+    margin-top: 700px;
+  }
+
+  .thirdblackstar{
+    margin-left: 400px;
+    
+  }
+
+  .aboutstar{
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+}
