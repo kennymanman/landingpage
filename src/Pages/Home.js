@@ -188,7 +188,7 @@ alt="y"
 
 </ReactBootStrap.Col> 
 
-<div className='imagehack'>
+
 <ReactBootStrap.Col xs={7} md={6}>
 
 
@@ -200,7 +200,6 @@ alt="page"
 
  
 </ReactBootStrap.Col>
-</div>
 
 </ReactBootStrap.Row>
 
