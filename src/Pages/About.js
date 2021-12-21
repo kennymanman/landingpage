@@ -38,11 +38,11 @@ alt="d"
 
 <ReactBootStrap.Col sm={6} >
 
-<p className='info' >Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 
+<p className='info' >Our startup named Garden was founded in 2020. Garden was created to provide quality groceries, variety of products and accessibility to these groceries to our customers.
+ During the pandemic alot of families couldn't gain access to quality groceries and at the time where ones health was important to protect their health. With the Garden app you can now order quality products,
+ make your own personalized grocery list and enjoy varieties of grocery boxes. For how you can recommend better solutions feel free to contact us.</p> 
 
-<h5 className='subinfo' >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+<h5 className='subinfo' >Quality groceries are important as well as your health.</h5>
 
 <img
 className='aboutstar' 

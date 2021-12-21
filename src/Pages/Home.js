@@ -103,10 +103,10 @@ alt="y"
 </div>
  
 
-<h3 className="homepagesubtitle">Shop Quality Groceries & Create Grocery Lists<br/>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </h3> 
+<h3 className="homepagesubtitle">Shop Quality Groceries, Enjoy Varieties Of Grocery Boxes, Create Grocery Lists & Have It Delivered Anytime And Anyday. Download The App & Get Started. </h3> 
 
- <p className='homepageaftersub'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- Lorem Ipsum . Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p> 
+ <p className='homepageaftersub'>Welcome to the official Garden grocery store website. Garden was founded in 2020 as a solution to the problem of accessing and buying quality groceries all from ones convenience and comfort.  
+ Download the app and enjoy quality produce, grocery boxes, personal grocery-lists and quick delivery. For more information or suggestions feel free to contact us.</p> 
 
  <h4 className='homepageyear' style={{fontFamily:"RecoletaBold"}}>©2021</h4>
 
@@ -161,8 +161,8 @@ style={{position:"absolute", marginLeft:190, marginTop:140, width:230}}
 
 <ReactBootStrap.Col xs={11} md={5}>
 <h3 className='availabletext' >Available for IOS &<br/> Android.</h3>
-<p className='availablesub' >Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown . </p>
+<p className='availablesub' >Download the app & begin enjoying quality groceries, take the stress off and 
+create a grocerylist for Wednesday while working on a Monday morning. Relax and enjoy. </p>
 
 
 <div className='lastbuttonrow' >

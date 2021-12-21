@@ -2,7 +2,7 @@
 .headergardentext{
   color: black;
   font-family:RecoletaBold;
-  font-size: 35px;
+  font-size: 32px;
 }
 
 .gardentextdot{
@@ -573,6 +573,9 @@ margin-bottom: 120px;
 
 
 
+
+
+
 @media only screen 
 and (min-width:0px)
 and (max-width:480px) {
@@ -592,12 +595,12 @@ and (max-width:480px) {
   }
 
   .homepagenexttitle{
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .homepagesubtitle{
-    font-size: 20px;
-    margin-top: 20px;
+    font-size: 18px;
+    margin-top: 60px;
   }
 
   .downloadbuttonrow{
@@ -610,7 +613,7 @@ and (max-width:480px) {
     width:17%;
   }
   .homepageaftersub{
-    font-size: 17px;
+    font-size: 16px;
   }
 
   .lagostext{
@@ -621,19 +624,20 @@ and (max-width:480px) {
   
   .availabletext{
     font-size: 23px;
+    margin-top: 30px;
   }
 
   .availablesub{
-    font-size: 17px;
+    font-size: 16px;
     
   }
   .groceryimageone{
     
     width:350px;
-    height:450px;
+    height:460px;
     margin-left: 0px;
     padding: 0px;
-    margin-top: 80px;
+    margin-top: 100px;
     
     
   }
@@ -647,16 +651,16 @@ and (max-width:480px) {
 
   .textunder{
     font-size: 35px;
-    margin-bottom: 20px;
-    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-top: 120px;
   }
 
   .textunderunder{
-    font-size: 17px;
+    font-size: 16px;
   }
 
   .textunderfinal{
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 60px;
     margin-top: 20px;
   }
@@ -667,13 +671,13 @@ and (max-width:480px) {
 
   .groceryimagetwo{
     width:350px;
-    height:450px;
-    margin-top:25px;
+    height:460px;
+    margin-top:65px;
     padding: 0px; 
   }
   .whygarden{
     font-size: 29px;
-    margin-top: 90px;
+    margin-top: 110px;
     text-align: center;
   }
 
@@ -682,11 +686,13 @@ and (max-width:480px) {
   
   }
 .deliveryicon{
-  font-size: 39px;
+  font-size: 49px;
+  margin: 9px;
 }
 
 .qualityicon{
-  font-size: 39px;
+  font-size: 49px;
+  margin: 9px;
 }
 
 .qualitytext{
@@ -695,16 +701,17 @@ and (max-width:480px) {
 }
 
 .listicon{
-  font-size: 39px;
+  font-size: 47px;
+  margin: 9px;
 }
 
 .listtext{
   font-size: 19px; 
-  margin-bottom: 170px;
+  margin-bottom: 160px;
   
 }
 .productcategories{
-  font-size: 7px;
+  font-size: 8px;
 }
 
 .subscribetext{
@@ -809,11 +816,11 @@ and (max-width:480px) {
 .firstblackstar{
   margin-left: 1px;
   margin-top: 900px;
-  width:23%;
+  width:25%;
 }
 
 .secondblackstar{
-  width:23%;
+  width:25%;
 }
 
 .downarrow{
@@ -827,7 +834,7 @@ and (max-width:480px) {
 }
 
 .thirdblackstar{
-  width:23%;
+  width:25%;
   margin-left: 0px;
   margin-top: 30px; 
 }
@@ -835,16 +842,16 @@ and (max-width:480px) {
 .groceryimagethree{
   width:350px;
   align-self: center;
-  height:450px;
+  height:460px;
   margin-top: 70px;
 }
 
 .headerabouttext{
-  font-size: 21px;
+  font-size: 18px;
 }
 
 .headercontacttext{
-  font-size: 21px;
+  font-size: 18px;
 }
 
 .aboutpagediv{
@@ -882,7 +889,7 @@ and (max-width:480px) {
 
 .aboutstar{
   margin-left: 0px;
-  width:23%;
+  width:24%;
 }
 
 .abouthorizontal{
@@ -897,7 +904,7 @@ and (max-width:480px) {
 
 .nextaboutstar{
   margin-left: 0px;
-  width:23%;
+  width:24%;
   margin-top: 40px;
 }
 
