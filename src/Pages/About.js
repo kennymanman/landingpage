@@ -42,7 +42,7 @@ alt="d"
  During the pandemic alot of families couldn't gain access to quality groceries and at the time where ones health was important to protect their health. With the Garden app you can now order quality products,
  make your own personalized grocery list and enjoy varieties of grocery boxes. For how you can recommend better solutions feel free to contact us.</p> 
 
-<h5 className='subinfo' >Quality groceries are important as well as your health.</h5>
+<h5 className='subinfo' >We would love to hear from you.</h5>
 
 <img
 className='aboutstar' 
