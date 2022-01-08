@@ -215,7 +215,7 @@ Also have it delivered on any day of your choosing even at work.
 
 </h6>
 
-<h6 className='textunderfinal'>Imagine a box full of ingredients for Egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
+<h6 className='textunderfinal'>Imagine a box full of ingredients for egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
 </div>
 
 
