@@ -74,6 +74,17 @@ code {
 
 
 
+@font-face {
+  font-family: "DoyleBlack";
+  src: local("DoyleBlack"),
+    url("./fonts/Doyle-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
+
 
 
 

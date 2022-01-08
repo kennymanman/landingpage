@@ -11,6 +11,7 @@ import "./fonts/Recoleta-Light.ttf"
 import "./fonts/RecoletaAlt-Bold.ttf"
 import "./fonts/RecoletaAlt-Medium.ttf"
 import "./fonts/RecoletaAlt-Light.ttf"
+import "./fonts/Doyle-Black.ttf"
 
 
 

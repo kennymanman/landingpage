@@ -41,7 +41,7 @@ font-family: RecoletaMedium;
   padding-top: 40px;
   text-align: left;
   color:#33584A;
-  font-size: 135px;
+  font-size: 136px;
   font-family:RecoletaBold;  
 }
 
@@ -613,7 +613,7 @@ and (max-width:480px) {
     width:17%;
   }
   .homepageaftersub{
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .lagostext{
