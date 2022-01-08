@@ -105,7 +105,7 @@ alt="y"
 
 <h3 className="homepagesubtitle">Shop Quality Groceries, Enjoy Varieties Of Grocery Boxes, Create Grocery Lists & Have It Delivered Anytime And Anyday. Download The App & Get Started. </h3> 
 
- <p className='homepageaftersub'>Welcome to the official Garden grocery store website. Garden was founded in 2020 as a solution to the problem of accessing and buying quality groceries all from ones convenience and comfort.  
+ <p className='homepageaftersub'>Welcome to the official Garden grocery store website. Garden was founded in 2020 as a solution to the problem of accessing and buying quality groceries all from one's convenience and comfort.  
  Download the app and enjoy quality produce, grocery boxes, personal grocery-lists and quick delivery. For more information or suggestions feel free to contact us.</p> 
 
  <h4 className='homepageyear' style={{fontFamily:"RecoletaBold"}}>©2021</h4>
