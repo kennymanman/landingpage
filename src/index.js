@@ -12,12 +12,15 @@ import "./fonts/RecoletaAlt-Bold.ttf"
 import "./fonts/RecoletaAlt-Medium.ttf"
 import "./fonts/RecoletaAlt-Light.ttf"
 import "./fonts/Doyle-Black.ttf"
+import { HelmetProvider } from 'react-helmet-async';
 
 
 
 ReactDOM.render(
   <BrowserRouter>
+  <HelmetProvider>
     <App />
+  </HelmetProvider>
     </BrowserRouter>,
   document.getElementById('root')
 );

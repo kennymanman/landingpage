@@ -24,8 +24,8 @@ return (
 <ReactBootStrap.Navbar.Collapse  className="justify-content-end">
 
 
-        <ReactBootStrap.Nav.Link  href="/about"><h4 className='headerabouttext'>about</h4></ReactBootStrap.Nav.Link>
-        <ReactBootStrap.Nav.Link  href="/contact"><h4 className='headercontacttext'> contact</h4></ReactBootStrap.Nav.Link>
+        <ReactBootStrap.Nav.Link  href="/about"><h2 className='headerabouttext'>about</h2></ReactBootStrap.Nav.Link>
+        <ReactBootStrap.Nav.Link  href="/contact"><h3 className='headercontacttext'> contact</h3></ReactBootStrap.Nav.Link>
      
 </ReactBootStrap.Navbar.Collapse>
 

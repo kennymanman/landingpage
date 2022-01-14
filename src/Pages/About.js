@@ -38,7 +38,7 @@ alt="d"
 
 <ReactBootStrap.Col sm={6} >
 
-<p className='info' >Our startup named Garden was founded in 2020. Garden was created to provide quality groceries, variety of products and accessibility to these groceries to our customers.
+<p className='info' >Our startup Garden was founded in 2020. Garden was created to provide quality groceries, variety of products and accessibility to these groceries to our customers.
  During the pandemic alot of families couldn't gain access to quality groceries and at the time where one's daily food intake was important to protect their health. With the Garden app you can now order quality products,
  make your own personalized grocery list and enjoy varieties of grocery boxes. For how you can recommend better solutions feel free to contact us.</p> 
 

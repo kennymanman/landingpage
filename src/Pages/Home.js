@@ -9,8 +9,6 @@ import yick from "../Images/yick.jpg"
 import food from "../Images/food.jpg"
 import Flower from "../Svg/Flower.svg"
 import Blackstar from "../Svg/Blackstar.svg"
-
-import Bingcross from "../Svg/Bingcross.svg"
 import Downpoint from "../Svg/Downpoint.svg"
 import Orangeswigly from "../Svg/Orangeswigly.svg"
 import Cactus from "../Svg/Cactus.svg"
@@ -22,7 +20,7 @@ import {TiThListOutline} from "react-icons/ti";
 
 import {HiArrowRight} from "react-icons/hi";  
 
-import landom from "../Images/landom.jpg"
+import { Helmet } from 'react-helmet-async'
 
 
 
@@ -51,6 +49,22 @@ style={{position:"absolute", width:"100%", height:"100%", objectFit:"cover", min
 
 </video>*/}
 
+<Helmet>
+<title>Garden Grocery Store | Groceries At Your Doorstep</title>
+<meta name="description" content="Shop Quality Groceries, Enjoy Varieties Of Grocery Boxes, Create Grocery Lists & Have It Delivered Anytime And Anyday. Download The App & Get Started." />
+<link rel="canonical" href="https://www.gardengrocerystore.com/" />
+<head>Groceries Near Me</head>
+<body>
+The Best Grocery Delivery Near Me
+Your Favorite Grocery Store
+We Sell A Variety Of Fresh Groceries.
+Garden Grocery Store
+Groceries Delivered.
+Vegetables, Fruit, Grocery Boxes.
+Best Place for Grocery Shopping in Lagos.
+</body>
+</Helmet>
+
 
 <Header/>
 
@@ -66,7 +80,7 @@ alt="d"
 
 <h1 className="homepagetitle">Groceries<br/>  At Your<br/> Doorstep<h7 style={{color:"orange"}}>.</h7></h1>
 
-<h4 className='homepagenexttitle' >Download the App & Start Shopping.</h4>
+<h2 className='homepagenexttitle' >Download the App & Start Shopping.</h2>
 </ReactBootStrap.Col>
 
 
@@ -204,16 +218,16 @@ alt="page"
 </ReactBootStrap.Row>
 
 
-<h6 className='textunder' >Hey There<h8 style={{color:"orange"}}>.</h8></h6>
+<h4 className='textunder' >Hey There<h8 style={{color:"orange"}}>.</h8></h4>
 
 
 <div style={{border:30}}>
-<h6 className='textunderunder'>
+<h5 className='textunderunder'>
 Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?
  And you could create Your own grocery list? <br className='break'/>
 Also have it delivered on any day of your choosing even at work.
 
-</h6>
+</h5>
 
 <h6 className='textunderfinal'>Imagine a box full of ingredients for egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
 </div>
