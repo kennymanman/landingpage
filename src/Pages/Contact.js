@@ -3,12 +3,30 @@ import Header from "../Components/Header"
 import * as ReactBootStrap from "react-bootstrap"
 import Bottom from "../Components/Bottom"
 
+import { Helmet } from 'react-helmet-async'
+
 
 export default function Contact() {
 return (
 
 
 <div className='contactpagediv'>
+
+<Helmet>
+
+<title>Contact Or Reach Garden Grocery Store.</title>
+<meta name="description" content="Address: 92, Lanre Awolokun Gbagada Phase 2, Lagos.
+Instagram: @Gardengrocerystore
+Twitter: @Gardengroceryng
+"
+/>
+
+<link rel="canonical" href="https://www.gardengrocerystore.com/contact" />
+
+<head>We Would Love To Hear From You</head>
+
+</Helmet>
+
 <Header/>
 
 <ReactBootStrap.Row>
