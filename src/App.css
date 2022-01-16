@@ -603,7 +603,7 @@ and (max-width:480px) {
 
   .homepagetitle{
     font-size: 71px;
-    margin-top: 58px;
+    margin-top: 60px;
   }
 
   .homepagenexttitle{
@@ -622,7 +622,7 @@ and (max-width:480px) {
   .topflower{
     margin-left: 280px;
     margin-top: 52px;
-    width:19%;
+    width:21%;
   }
   .homepageaftersub{
     font-size: 17px;
@@ -885,7 +885,7 @@ and (max-width:480px) {
 }
 
 .doorstep{
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .better{
@@ -893,7 +893,7 @@ and (max-width:480px) {
 }
 
 .info{
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .subinfo{
