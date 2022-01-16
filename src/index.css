@@ -72,16 +72,35 @@ code {
   
 }
 
+@font-face {
+  font-family: "RecoletaRegular";
+  src: local("RecoletaRegular"),
+    url("./fonts/Recoleta-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  
+}
+
+@font-face {
+  font-family: "RecoletaSemiBold";
+  src: local("RecoletaSemiBold"),
+    url("./fonts/Recoleta-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+  
+}
 
 
 @font-face {
-  font-family: "DoyleBlack";
-  src: local("DoyleBlack"),
-    url("./fonts/Doyle-Black.ttf") format("truetype");
+  font-family: "RecoletaBlack";
+  src: local("RecoletaBlack"),
+    url("./fonts/Recoleta-Black.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
   
 }
+
+
 
 
 

@@ -1,8 +1,8 @@
 
 .headergardentext{
   color: black;
-  font-family:RecoletaBold;
-  font-size: 32px;
+  font-family:RecoletaBlack;
+  font-size: 30px;
 }
 
 .gardentextdot{
@@ -12,12 +12,14 @@
 .headerabouttext{
   color: black;
   font-family: RecoletaMedium;
+  font-size: 21px;
     
 }
 
 .headercontacttext{
 color: black;
 font-family: RecoletaMedium;
+font-size: 21px;
   
 }
 
@@ -38,17 +40,18 @@ font-family: RecoletaMedium;
 
 .homepagetitle{
   
-  padding-top: 40px;
+  padding-top: 33px;
   text-align: left;
   color:#33584A;
-  font-size: 136px;
+  font-size: 139px;
   font-family:RecoletaBold;  
 }
 
 .homepagenexttitle{
 font-family: RecoletaMedium;
 color:#33584A;
-padding-top: 5px;
+padding-top: 1px;
+font-size: 29px;
 }
 
 
@@ -67,8 +70,8 @@ padding-top: 5px;
 .homepagesubtitle{
   position: relative;
   color:#33584A;
-  font-size: 23px;
-  padding-top: 10px;
+  font-size: 24px;
+  padding-top: 55px;
   font-family: RecoletaMedium;
   
   
@@ -76,16 +79,18 @@ padding-top: 5px;
 }
 
 .homepageaftersub{
-  font-family: RecoletaAltLight;
+  font-family: RecoletaRegular;
   font-size: 19px;
   color:#33584A;
   position: relative;
+  margin-top: 25px;
   
 }
 
 .homepageyear{
   position: relative;
   color:#33584A;
+  font-family: RecoletaMedium;
   
 }
 
@@ -97,21 +102,21 @@ padding-top: 5px;
   font-size: 40px;
   margin-bottom: 250px;
   position: relative;
-  font-family: RecoletaBold;
+  font-family: RecoletaMedium;
 }
 
 .availabletext{
 
 position: relative;
-font-family: RecoletaBold;
-font-size: 35px;
+font-family: RecoletaSemiBold;
+font-size: 33px;
 color:#33584A;
 }
 
 .availablesub{
   position: relative;
-   font-family: RecoletaAltLight;
-    font-size:20px;
+   font-family: RecoletaRegular;
+    font-size:19px;
     color:#33584A;
     
 }
@@ -137,8 +142,8 @@ color:#33584A;
 .textunder{
   margin-top:190px;
   text-align: left;
-  font-family: RecoletaAltBold;
-  font-size:55px;
+  font-family: RecoletaSemiBold;
+  font-size:44px;
   margin-bottom: 50px;
   color:#33584A;
   line-break: auto;
@@ -148,16 +153,16 @@ color:#33584A;
 .textunderfinal{
   text-align: left; 
   color:orangered;
-  font-family: RecoletaAltMedium;
-  font-size: 23px;
+  font-family: RecoletaMedium;
+  font-size: 22px;
   margin-bottom: 190px;
   margin-top: 25px;
 }
 
 
 .textunderunder{
-  font-family: RecoletaAltLight;
-  font-size:21px;
+  font-family: RecoletaRegular;
+  font-size:20px;
   margin-bottom: 0px;
   text-align: left; 
   color:#33584A;
@@ -181,8 +186,8 @@ margin-top: 200px;
 }
 
 .whygarden{
-  font-family: RecoletaBold;
-   font-size:45px;
+  font-family: RecoletaSemiBold;
+   font-size:44px;
    margin-top: 65px;
    color:#33584A;
 
@@ -191,7 +196,7 @@ margin-top: 200px;
 .deliverytext{
   margin-top:50px;
    font-family: RecoletaMedium;
-   font-size:30px;
+   font-size:27px;
    padding: 15px;
    color:#33584A;
 }
@@ -202,7 +207,7 @@ font-size: 85px;
 
 .qualitytext{
   font-family: RecoletaMedium;
-  font-size:30px;
+  font-size:27px;
   padding: 15px;
   color:#33584A;
 
@@ -214,7 +219,7 @@ font-size: 85px;
 
 .listtext{
   font-family: RecoletaMedium;
-  font-size:30px;
+  font-size:27px;
   padding: 15px;
   margin-bottom: 250px;
   color:#33584A;
@@ -285,7 +290,9 @@ margin-bottom: 120px;
 }
 
 .bottomgardentext{
-  font-family: RecoletaBold;
+  font-family: RecoletaBlack;
+  font-size: 30px;
+  color: black;
 
 }
 
@@ -295,37 +302,40 @@ margin-bottom: 120px;
 
 .instagram{
   font-family: RecoletaMedium;
+  font-size: 25px;
 }
 
 .twitter{
   font-family: RecoletaMedium;
+  font-size: 25px;
 }
 
 .address{
   color: black;
    margin-top:30px;
-  font-size:18px;
-  font-family: RecoletaLight;
+  font-size:17px;
+  font-family: RecoletaRegular;
 
 }
 
 .facebook{
 font-family: RecoletaMedium;
+font-size: 25px;
 
 }
 
 .phonenumber{
   color: black;
    margin-top:30px;
-  font-size:18px;
-  font-family: RecoletaLight;
+  font-size:17px;
+  font-family: RecoletaRegular;
 
 }
 
 .email{
   color: black;
-   font-size:18px;
-   font-family: RecoletaLight;
+   font-size:17px;
+   font-family: RecoletaRegular;
 
 }
 
@@ -355,10 +365,10 @@ margin-bottom: 120px;
 
 .copyright{
   color: black;
-   font-size:18px;
+   font-size:17px;
     text-align: center;
      margin-top:24px;
-     font-family: RecoletaLight;
+     font-family: RecoletaRegular;
 }
 
 .earthgreen{
@@ -379,7 +389,7 @@ margin-bottom: 120px;
 
 .topflower{
   margin-left: 599px;
-  width:8%;
+  width:10%;
   position: absolute;
   margin-top: 20px;
 }
@@ -452,29 +462,31 @@ margin-bottom: 120px;
 
 .gardenstory{
   text-align: left;
-   font-family: RecoletaMedium;
-  margin-bottom:250px;
+   font-family: RecoletaSemiBold;
+  margin-bottom:280px;
   color: black;
 }
 
 .doorstep{
-  font-family: RecoletaLight;
-   font-size:20px;
+  font-family: RecoletaRegular;
+   font-size:19px;
+  
 }
 
 .better{
-  font-family: RecoletaMedium;
-   font-size:20px;
+  font-family: RecoletaSemiBold;
+   font-size:21px;
 }
 
 .info{
-  font-family: RecoletaLight;
+  font-family: RecoletaRegular;
   font-size:22px;
   margin-top:95px;
 }
 
 .subinfo{
-  font-family: RecoletaMedium;
+  font-family: RecoletaSemiBold;
+  margin-top: 5px;
 }
 
 .aboutstar{
@@ -549,24 +561,24 @@ margin-bottom: 120px;
 .contactaddress{
   font-size:23px;
    margin-top:50px;
-    font-family: RecoletaLight;
+    font-family: RecoletaRegular;
 }
 
 .contactinstagram{
   margin-top:70px;
-  font-family: RecoletaMedium;
+  font-family: RecoletaSemiBold;
    color:black;
 }
 
 .contacttwitter{
   margin-top:30px;
-  font-family: RecoletaMedium;
+  font-family: RecoletaSemiBold;
    color:black;
 }
 
 .contactfacebook{
   margin-top:30px;
-  font-family: RecoletaMedium;
+  font-family: RecoletaSemiBold;
    color:black;
 }
 
@@ -590,8 +602,8 @@ and (max-width:480px) {
   }
 
   .homepagetitle{
-    font-size: 70px;
-    margin-top: 55px;
+    font-size: 71px;
+    margin-top: 58px;
   }
 
   .homepagenexttitle{
@@ -609,8 +621,8 @@ and (max-width:480px) {
   }
   .topflower{
     margin-left: 280px;
-    margin-top: 58px;
-    width:17%;
+    margin-top: 52px;
+    width:19%;
   }
   .homepageaftersub{
     font-size: 17px;

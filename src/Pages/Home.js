@@ -10,8 +10,9 @@ import food from "../Images/food.jpg"
 import Flower from "../Svg/Flower.svg"
 import Blackstar from "../Svg/Blackstar.svg"
 import Downpoint from "../Svg/Downpoint.svg"
-import Orangeswigly from "../Svg/Orangeswigly.svg"
+import Orangeballwithdots from "../Svg/Orangeballwithdots.svg"
 import Cactus from "../Svg/Cactus.svg"
+import Greenpetal from "../Svg/Greenpetal.svg"
 
 
 import {BiPackage} from "react-icons/bi";
@@ -139,7 +140,7 @@ style={{position:"absolute", width:"92%",marginTop:50, height:"95%" }}
 
 <img 
 className='green'
- src={Orangeswigly}
+ src={Orangeballwithdots}
   alt="d"
 />
 
