@@ -102,6 +102,17 @@ code {
 
 
 
+@font-face {
+  font-family: "NeueHaasDisplayMedium";
+  src: local("NeueHaasDisplayMedium"),
+    url("./fonts/NeueHaasDisplayMedium.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
+
 
 
 

@@ -13,6 +13,7 @@ import Downpoint from "../Svg/Downpoint.svg"
 import Orangeballwithdots from "../Svg/Orangeballwithdots.svg"
 import Cactus from "../Svg/Cactus.svg"
 import Greenpetal from "../Svg/Greenpetal.svg"
+import mockuptwo from "../Images/mockuptwo.png"
 
 
 import {BiPackage} from "react-icons/bi";

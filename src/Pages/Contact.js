@@ -14,7 +14,7 @@ return (
 
 <Helmet>
 
-<title>Contact Or Reach Garden Grocery Store.</title>
+<title>Contact - Garden Grocery Store.</title>
 <meta name="description" content="Address: 92, Lanre Awolokun Gbagada Phase 2, Lagos.
 Instagram: @Gardengrocerystore
 Twitter: @Gardengroceryng

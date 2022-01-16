@@ -16,7 +16,7 @@ return (
 <div className='aboutpagediv'>
 
     <Helmet>
-        <title>About Garden Grocery Store</title>
+        <title>About - Garden Grocery Store</title>
         <meta name="description" content="All You Need For Your Grocery Shopping. Fresh Groceries At Affordable Prices Near You, Only At Garden Grocery Store. Garden Launched 2022." />
 
 <link rel="canonical" href="https://www.gardengrocerystore.com/about" />
