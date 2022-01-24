@@ -99,7 +99,7 @@ alt="d"
 />
 
 
-<h3 className='ceoname' >Okafor Ekene.<br/>CEO of Garden.</h3>
+<h3 className='ceoname' >Brian El.<br/>CEO of Garden.</h3>
 </ReactBootStrap.Col>
 </ReactBootStrap.Row>
 
