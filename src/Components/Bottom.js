@@ -33,7 +33,7 @@ style={{position:"absolute", width:300}}
   </ReactBootStrap.Col>
 
   <ReactBootStrap.Col sm={2}>
-      <h2 className='twitter'><a style={{textDecoration:"none", color:"black"}} href="https://react-bootstrap.github.io/layout/grid/" target= "blank">Twitter</a></h2>
+      <h2 className='twitter'><a style={{textDecoration:"none", color:"black"}} href="https://twitter.com/Gardengroceryng" target= "blank">Twitter</a></h2>
 
       <p className='address' >92, Lanre Awolokun<br/>
 Gbagada Phase, 2<br/>

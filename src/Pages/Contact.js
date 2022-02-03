@@ -48,7 +48,7 @@ Twitter: @Gardengroceryng
 
 <h3 className='contactinstagram' ><a style={{textDecoration:"none", color:"black"}} href="https://www.instagram.com/gardengrocerystore/?hl=en" target= "blank">Instagram</a></h3>
 
-<h3 className='contacttwitter'><a  style={{textDecoration:"none", color:"black"}}href="https://react-bootstrap.github.io/layout/grid/" target= "blank">Twitter</a></h3>
+<h3 className='contacttwitter'><a  style={{textDecoration:"none", color:"black"}}href="https://twitter.com/Gardengroceryng" target= "blank">Twitter</a></h3>
 
 <h3 className='contactfacebook'><a style={{textDecoration:"none", color:"black"}} href="https://react-bootstrap.github.io/layout/grid/" target= "blank">Facebook</a></h3>
 
