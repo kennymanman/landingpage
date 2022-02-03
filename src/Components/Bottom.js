@@ -29,7 +29,7 @@ style={{position:"absolute", width:300}}
   </ReactBootStrap.Col>
 
   <ReactBootStrap.Col sm={2}>
-      <h2 className='instagram' > <a style={{textDecoration:"none", color:"black"}} href="https://react-bootstrap.github.io/layout/grid/" target= "blank">Instagram</a></h2>
+      <h2 className='instagram' > <a style={{textDecoration:"none", color:"black"}} href="https://www.instagram.com/gardengrocerystore/?hl=en" target= "blank">Instagram</a></h2>
   </ReactBootStrap.Col>
 
   <ReactBootStrap.Col sm={2}>
