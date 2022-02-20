@@ -674,7 +674,7 @@ and (max-width:480px) {
 
 
   .homepagediv{
-    padding:12px
+    padding:13px
   }
 
   .headergardentext{
@@ -733,7 +733,7 @@ and (max-width:480px) {
   .groceryimageone{
     
     width:450px;
-    height:450px;
+    height:480px;
     margin-left: 0px;
     padding: 0px;
     margin-top: 100px;
@@ -756,7 +756,7 @@ and (max-width:480px) {
  
 
   .textunder{
-    font-size: 35px;
+    font-size: 30px;
     margin-bottom: 50px;
     margin-top: 120px;
   }
@@ -767,25 +767,25 @@ and (max-width:480px) {
 
   .textunderfinal{
     font-size: 19px;
-    margin-bottom: 170px;
+    margin-bottom: 200px;
     margin-top: 20px;
   }
 
   .meatstamp{
-    top:4141px;
+    top:4195px;
     margin-left: 1px;
     width: 28%;
   }
 
   .breadstamp{
-    top:4353px;
+    top:4405px;
     margin-left: 0px;
     width: 28%;
   }
 
 
   .spicestamp{
-   top:4560px;
+   margin-top:433px;
    margin-left: 0px;
    width: 28%;
   }
@@ -841,7 +841,7 @@ and (max-width:480px) {
 
 .subscribetext{
   margin-top: 180px;
-  font-size: 36px;
+  font-size: 33px;
 }
 
 .categorylineup{
