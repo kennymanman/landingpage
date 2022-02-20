@@ -1,7 +1,7 @@
 
 .headergardentext{
   color: black;
-  font-family:Recoleta;
+  font-family:RecoletaBold;
   font-size: 30px;
 }
 
@@ -25,7 +25,7 @@ font-size: 21px;
 
 .homepagediv{
   height:100%;
-  background-color: #2b8459;
+  background-color: #f1eae0;
   padding: 60px; 
 }
 
@@ -42,14 +42,14 @@ font-size: 21px;
   
   padding-top: 33px;
   text-align: left;
-  color:#f1eae0;
+  color:#33584A;
   font-size: 139px;
   font-family:RecoletaBold;  
 }
 
 .homepagenexttitle{
 font-family: RecoletaMedium;
-color:#f1eae0;
+color:#33584A;
 padding-top: 1px;
 font-size: 29px;
 }
@@ -69,7 +69,7 @@ font-size: 29px;
 
 .homepagesubtitle{
   position: relative;
-  color:#f1eae0;
+  color:#33584A;
   font-size: 24px;
   padding-top: 55px;
   font-family: RecoletaMedium;
@@ -81,7 +81,7 @@ font-size: 29px;
 .homepageaftersub{
   font-family: RecoletaRegular;
   font-size: 19px;
-  color:#f1eae0;
+  color:#33584A;
   position: relative;
   margin-top: 25px;
   
@@ -89,7 +89,7 @@ font-size: 29px;
 
 .homepageyear{
   position: relative;
-  color:#f1eae0;
+  color:#33584A;
   font-family: RecoletaMedium;
   
 }
@@ -97,7 +97,7 @@ font-size: 29px;
 
 .lagostext{
   text-align: center;
-  color:#f1eae0;
+  color:#33584A;
   margin-top: 310px;
   font-size: 40px;
   margin-bottom: 250px;
@@ -110,14 +110,14 @@ font-size: 29px;
 position: relative;
 font-family: RecoletaSemiBold;
 font-size: 33px;
-color:#f1eae0;
+color:#33584A;
 }
 
 .availablesub{
   position: relative;
    font-family: RecoletaRegular;
     font-size:19px;
-    color:#f1eae0;
+    color:#33584A;
     
 }
 
@@ -145,7 +145,7 @@ color:#f1eae0;
   font-family: RecoletaSemiBold;
   font-size:44px;
   margin-bottom: 50px;
-  color:#f1eae0;
+  color:#33584A;
   line-break: auto;
   
 }
@@ -165,7 +165,7 @@ color:#f1eae0;
   font-size:24px;
   margin-bottom: 0px;
   text-align: center; 
-  color:#f1eae0;
+  color:#33584A;
 }
 
 .lastbuttonrow{
@@ -189,7 +189,7 @@ margin-top: 200px;
   font-family: RecoletaSemiBold;
    font-size:44px;
    margin-top: 65px;
-   color:#f1eae0;
+   color:#33584A;
 
 }
 
@@ -198,7 +198,7 @@ margin-top: 200px;
    font-family: RecoletaMedium;
    font-size:27px;
    padding: 15px;
-   color:#f1eae0;
+   color:#33584A;
 }
 
 .deliveryicon{
@@ -209,7 +209,7 @@ font-size: 85px;
   font-family: RecoletaMedium;
   font-size:27px;
   padding: 15px;
-  color:#f1eae0;
+  color:#33584A;
 
 }
 
@@ -222,7 +222,7 @@ font-size: 85px;
   font-size:27px;
   padding: 15px;
   margin-bottom: 300px;
-  color:#f1eae0;
+  color:#33584A;
 }
 
 .listicon{
@@ -664,6 +664,10 @@ position: absolute;
 
 
 
+
+
+
+
 @media only screen 
 and (min-width:0px)
 and (max-width:480px) {
@@ -702,8 +706,8 @@ and (max-width:480px) {
   }
 
   .peeled{
-    top: 323px;
-    width:45%;
+    top: 308px;
+    width:49%;
     margin-left: 7px;
   }
   .homepageaftersub{
@@ -763,25 +767,25 @@ and (max-width:480px) {
 
   .textunderfinal{
     font-size: 19px;
-    margin-bottom: 110px;
+    margin-bottom: 170px;
     margin-top: 20px;
   }
 
   .meatstamp{
-    top:4184px;
-    margin-left: 2px;
-    width: 27%;
+    top:4141px;
+    margin-left: 1px;
+    width: 28%;
   }
 
   .breadstamp{
-    top:4393px;
-    margin-left: 2px;
-    width: 27%;
+    top:4353px;
+    margin-left: 0px;
+    width: 28%;
   }
 
 
   .spicestamp{
-   top:4610px;
+   top:4560px;
    margin-left: 0px;
    width: 28%;
   }
@@ -798,7 +802,7 @@ and (max-width:480px) {
   }
   .whygarden{
     font-size: 29px;
-    margin-top: 110px;
+    margin-top: 10px;
     text-align: center;
   }
 
@@ -837,6 +841,7 @@ and (max-width:480px) {
 
 .subscribetext{
   margin-top: 180px;
+  font-size: 36px;
 }
 
 .categorylineup{
@@ -844,7 +849,7 @@ and (max-width:480px) {
 }
 
 .productcategories{
-  font-size: 13px;
+  font-size: 12px;
   
 }
 
@@ -919,18 +924,18 @@ and (max-width:480px) {
 .green{
   margin-left: 0px;
   margin-top: 260px;
-  width:35%;
+  width:40%;
 }
 
 .flowertwo{
   margin-left: 170px;
   margin-top: 110px;
-  width:35%;
+  width:40%;
 }
 
 .lagosbling{
   margin-left: 210px;
-  width:40%;
+  width:48%;
   margin-top: 290px;
 }
 
@@ -946,7 +951,7 @@ and (max-width:480px) {
 }
 
 .downarrow{
-  width: 14%;
+  width: 16%;
   margin-top: 30px;
   margin-left: 170px;
 }
@@ -1067,6 +1072,16 @@ and (max-width:480px) {
 
 .contactaddress{
   font-size: 17px;
+}
+
+.soontext{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.soonimage{
+  width:350px;
+  height:400px;
 }
 }
 
