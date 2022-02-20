@@ -5,6 +5,7 @@ import Center from "../Svg/Center.svg"
 import Blackstar from "../Svg/Blackstar.svg"
 import foodhun from "../Images/foodhun.jpg"
 import Bottom from "../Components/Bottom"
+import orangestamp from "../Svg/orangestamp.svg"
 
 import { Helmet } from 'react-helmet-async'
 
@@ -98,8 +99,14 @@ src={foodhun}
 alt="d"
 />
 
+<img 
+className='aboutstamp'
+ src={orangestamp}
+  alt="d"
+/>
 
 <h3 className='ceoname' >Brian Ele.<br/>CEO of Garden.</h3>
+
 </ReactBootStrap.Col>
 </ReactBootStrap.Row>
 

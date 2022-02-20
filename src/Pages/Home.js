@@ -14,6 +14,11 @@ import Orangeballwithdots from "../Svg/Orangeballwithdots.svg"
 import Cactus from "../Svg/Cactus.svg"
 import Greenpetal from "../Svg/Greenpetal.svg"
 import mocktwo from "../Images/mocktwo.png"
+import nox from "../Images/nox.png"
+import orangeflora from "../Svg/orangeflora.svg"
+
+import sunray from "../Svg/sunray.svg"
+import orangestamp from "../Svg/orangestamp.svg"
 
 
 import {BiPackage} from "react-icons/bi";
@@ -24,7 +29,11 @@ import {HiArrowRight} from "react-icons/hi";
 
 import { Helmet } from 'react-helmet-async'
 
-
+import orangefruit from "../Images/orangefruit.png"
+import pepper from "../Images/pepper.png"
+import avo from "../Images/avo.png"
+import peeled from "../Images/peeled.png"
+import phoned from "../Images/phoned.png"
 
 
 
@@ -99,7 +108,7 @@ alt="page"
 
 <div className='downloadbuttonrow'  >
 
-<a href="https://react-bootstrap.github.io/layout/grid/" target= "blank">
+<a href="/soon" target= "blank">
 <img
 
 style={{width:140, height:149, margin:3, position:"relative"}} 
@@ -108,7 +117,7 @@ alt="b"
 />
 </a>
 
-<a href="https://www.stocksy.com/370511/fresh-picked-peaches-being-washed-in-a-metal-sink" target= "blank">
+<a href="/soon" target= "blank">
 <img
 style={{width:140, height:149, margin:3, position:"relative"}} 
 src={Googleplaybutton}
@@ -124,7 +133,7 @@ alt="y"
  <p className='homepageaftersub'>Welcome to the official Garden grocery store website.  
  Download the app and enjoy quality produce, grocery boxes, personal grocery-lists and quick delivery. For more information or suggestions feel free to contact us.</p> 
 
- <h4 className='homepageyear' style={{fontFamily:"RecoletaBold"}}>©2021</h4>
+ <h4 className='homepageyear' style={{fontFamily:"RecoletaBold"}}>©2022</h4>
 
 
 </ReactBootStrap.Col>
@@ -141,19 +150,19 @@ style={{position:"absolute", width:"92%",marginTop:50, height:"95%" }}
 
 <img 
 className='green'
- src={Orangeballwithdots}
+ src={avo}
   alt="d"
 />
 
 <img 
 className='flowertwo'
- src={Flower}
+ src={orangefruit}
   alt="d"
 />
 
 <img 
 className='lagosbling'
- src={Cactus}
+ src={pepper}
   alt="d"
 />
 
@@ -183,7 +192,7 @@ create a grocerylist for Wednesday while working on a Monday morning. Relax and 
 
 <div className='lastbuttonrow' >
 
-<a href="https://react-bootstrap.github.io/layout/grid/" target= "blank">
+<a href="/soon" target= "blank">
 <img
 style={{width:140, height:149, margin:3}} 
 src={Appstorebutton}
@@ -192,7 +201,7 @@ alt="b"
 </a>
 
 
-<a href="https://react-bootstrap.github.io/layout/grid/" target= "blank">
+<a href="/soon" target= "blank">
 <img
 style={{width:140, height:149, margin:3}} 
 src={Googleplaybutton}
@@ -210,7 +219,7 @@ alt="y"
 
 <img
 className='groceryimageone'
-src={mocktwo}
+src={phoned}
 alt="page"
 />
 
@@ -220,19 +229,37 @@ alt="page"
 </ReactBootStrap.Row>
 
 
-<h4 className='textunder' >Hey There<h8 style={{color:"orange"}}>.</h8></h4>
+<h4 className='textunder' >Hey There</h4>
 
 
 <div style={{border:30}}>
 <h5 className='textunderunder'>
-Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?
- And you could create Your own grocery list? <br className='break'/>
+Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?,
+ And you could create your own grocery list?, <br className='break'/>
 Also have it delivered on any day of your choosing even at work.
 
 </h5>
 
 <h6 className='textunderfinal'>Imagine a box full of ingredients for egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
+
+
 </div>
+
+<img 
+className='peeled'
+ src={peeled}
+  alt="d"
+/>
+
+
+<img 
+className='peels'
+ src={orangeflora}
+  alt="d"
+/>
+
+
+
 
 
 <img 
@@ -247,7 +274,7 @@ style={{}}
 
 <img
 className='groceryimagetwo'
-src={yick}
+src={nox}
 alt="v"
 />
 
@@ -273,15 +300,34 @@ alt="v"
 
 <ReactBootStrap.Row >
 
-<ReactBootStrap.Col xs={4} md={4}>
+<ReactBootStrap.Col  xs={4} md={4}>
+
+<img 
+className='meatstamp'
+ src={orangestamp}
+  alt="d"
+/>
+
 <h3 className='productcategories' >Fruits</h3>
+
 </ReactBootStrap.Col>
 
 <ReactBootStrap.Col xs={4} md={4}>
+
+<img 
+className='meatstamp'
+ src={orangestamp}
+  alt="d"
+/>
 <h3 className='productcategories'>Vegetables</h3>
 </ReactBootStrap.Col>
 
 <ReactBootStrap.Col xs={4} md={4}>
+<img 
+className='meatstamp'
+ src={orangestamp}
+  alt="d"
+/>
 <h3 className='productcategories'>Meat & Seafood</h3>
 </ReactBootStrap.Col>
 
@@ -292,14 +338,32 @@ alt="v"
 
 <ReactBootStrap.Row >
 <ReactBootStrap.Col xs={4} md={4}>
+<img 
+className='breadstamp'
+ src={orangestamp}
+  alt="d"
+/>
 <h3 className='productcategories' >Bread & Bakery</h3>
 </ReactBootStrap.Col>
 
+
+
 <ReactBootStrap.Col xs={4} md={4}>
+<img 
+className='breadstamp'
+ src={orangestamp}
+  alt="d"
+/>
+
 <h3 className='productcategories'>Dairy & Eggs</h3>
 </ReactBootStrap.Col>
 
 <ReactBootStrap.Col xs={4} md={4}>
+<img 
+className='breadstamp'
+ src={orangestamp}
+  alt="d"
+/>
 <h3 className='productcategories'>Drinks</h3>
 </ReactBootStrap.Col>
 
@@ -312,15 +376,30 @@ alt="v"
 <ReactBootStrap.Row >
 
 <ReactBootStrap.Col xs={4} md={4}>
+<img 
+className='spicestamp'
+ src={orangestamp}
+  alt="d"
+/>
 <h3 className='productcategories'>Spices, Sauces & Oil</h3>
 </ReactBootStrap.Col>
 
 <ReactBootStrap.Col xs={4} md={4}>
-<h3 className='productcategories'>Pasta, Noodles & Grains</h3>
+<img 
+className='spicestamp'
+ src={orangestamp}
+  alt="d"
+/>
+<h3 className='productcategories'>Pasta & Grains</h3>
 </ReactBootStrap.Col>
 
 <ReactBootStrap.Col xs={4} md={4}>
-<h3 className='productcategories'>Dried, Pantry & Tubers</h3>
+<img 
+className='spicestamp'
+ src={orangestamp}
+  alt="d"
+/>
+<h3 className='productcategories'>Pantry & Tubers</h3>
 </ReactBootStrap.Col>
 
 </ReactBootStrap.Row>

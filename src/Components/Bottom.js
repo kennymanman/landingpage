@@ -5,7 +5,7 @@ import {FaCcMastercard} from "react-icons/fa";
 import {RiVisaLine} from "react-icons/ri";
 import {MdRecycling} from "react-icons/md";
 import Flutterwave from "../Pages/Icon/Flutterwave.png"
-
+import greenflora from "../Svg/greenflora.svg"
 
 export default function Bottom() {
     return (
@@ -23,6 +23,7 @@ src={Center}
 alt="e"
 style={{position:"absolute", width:300}}
 />*/}
+
 
 
 <h2 className="bottomgardentext"  style={{fontFamily:"RecoletaBold"}}>Garden<h8 className="bottomgardenbutton" >.</h8></h2>

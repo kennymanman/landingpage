@@ -16,6 +16,9 @@ import "./fonts/Recoleta-SemiBold.ttf"
 import "./fonts/Recoleta-Black.ttf"
 import "./fonts/NeueHaasDisplayMedium.ttf"
 import "./fonts/Doyle-Black.ttf"
+import "./fonts/Bogart-Extrabold-Italic-trial.ttf"
+import "./fonts/Bogart-Bold-trial.ttf"
+import "./fonts/Bogart-Black-Italic-trial.ttf"
 import { HelmetProvider } from 'react-helmet-async';
 
 

@@ -112,6 +112,46 @@ code {
 }
 
 
+@font-face {
+  font-family: "DoyleBlack";
+  src: local("RecoletaBlack"),
+    url("./fonts/Recoleta-Black.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+@font-face {
+  font-family: "BogartExtraboldItalic";
+  src: local("RecoletaBlack"),
+    url("./fonts/Bogart-Extrabold-Italic-trial.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
+@font-face {
+  font-family: "BogartBold";
+  src: local("RecoletaBlack"),
+    url("./fonts/Bogart-Bold-trial.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
+
+@font-face {
+  font-family: "BogartBlackItalic";
+  src: local("RecoletaBlack"),
+    url("./fonts/Bogart-Black-Italic-trial.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
 
 
 

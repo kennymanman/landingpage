@@ -1,7 +1,7 @@
 
 .headergardentext{
   color: black;
-  font-family:RecoletaBlack;
+  font-family:Recoleta;
   font-size: 30px;
 }
 
@@ -25,7 +25,7 @@ font-size: 21px;
 
 .homepagediv{
   height:100%;
-  background-color: #f1eae0;
+  background-color: #2b8459;
   padding: 60px; 
 }
 
@@ -42,14 +42,14 @@ font-size: 21px;
   
   padding-top: 33px;
   text-align: left;
-  color:#33584A;
+  color:#f1eae0;
   font-size: 139px;
   font-family:RecoletaBold;  
 }
 
 .homepagenexttitle{
 font-family: RecoletaMedium;
-color:#33584A;
+color:#f1eae0;
 padding-top: 1px;
 font-size: 29px;
 }
@@ -69,7 +69,7 @@ font-size: 29px;
 
 .homepagesubtitle{
   position: relative;
-  color:#33584A;
+  color:#f1eae0;
   font-size: 24px;
   padding-top: 55px;
   font-family: RecoletaMedium;
@@ -81,7 +81,7 @@ font-size: 29px;
 .homepageaftersub{
   font-family: RecoletaRegular;
   font-size: 19px;
-  color:#33584A;
+  color:#f1eae0;
   position: relative;
   margin-top: 25px;
   
@@ -89,7 +89,7 @@ font-size: 29px;
 
 .homepageyear{
   position: relative;
-  color:#33584A;
+  color:#f1eae0;
   font-family: RecoletaMedium;
   
 }
@@ -97,7 +97,7 @@ font-size: 29px;
 
 .lagostext{
   text-align: center;
-  color:#33584A;
+  color:#f1eae0;
   margin-top: 310px;
   font-size: 40px;
   margin-bottom: 250px;
@@ -110,14 +110,14 @@ font-size: 29px;
 position: relative;
 font-family: RecoletaSemiBold;
 font-size: 33px;
-color:#33584A;
+color:#f1eae0;
 }
 
 .availablesub{
   position: relative;
    font-family: RecoletaRegular;
     font-size:19px;
-    color:#33584A;
+    color:#f1eae0;
     
 }
 
@@ -131,41 +131,41 @@ color:#33584A;
 
 }
 .groceryimageone{
-  width:500px;
-   height:550px;
+  width:585px;
+   height:590px;
    padding: 10px;
-   margin-left: 130px;
+   margin-left: 80px;
   
    
 }
 
 .textunder{
   margin-top:190px;
-  text-align: left;
+  text-align: center;
   font-family: RecoletaSemiBold;
   font-size:44px;
   margin-bottom: 50px;
-  color:#33584A;
+  color:#f1eae0;
   line-break: auto;
   
 }
 
 .textunderfinal{
-  text-align: left; 
+  text-align: center; 
   color:orangered;
   font-family: RecoletaMedium;
-  font-size: 22px;
-  margin-bottom: 190px;
+  font-size: 25px;
+  margin-bottom: 450px;
   margin-top: 25px;
 }
 
 
 .textunderunder{
   font-family: RecoletaRegular;
-  font-size:20px;
+  font-size:24px;
   margin-bottom: 0px;
-  text-align: left; 
-  color:#33584A;
+  text-align: center; 
+  color:#f1eae0;
 }
 
 .lastbuttonrow{
@@ -178,10 +178,10 @@ margin-top: 200px;
 }
 
 .groceryimagetwo{
-  width:500px;
-   height:550px;
+  width:720px;
+   height:850px;
    padding: 10px;
-   margin-top: 50px;
+   margin-top: 0px;
   
 }
 
@@ -189,7 +189,7 @@ margin-top: 200px;
   font-family: RecoletaSemiBold;
    font-size:44px;
    margin-top: 65px;
-   color:#33584A;
+   color:#f1eae0;
 
 }
 
@@ -198,7 +198,7 @@ margin-top: 200px;
    font-family: RecoletaMedium;
    font-size:27px;
    padding: 15px;
-   color:#33584A;
+   color:#f1eae0;
 }
 
 .deliveryicon{
@@ -209,7 +209,7 @@ font-size: 85px;
   font-family: RecoletaMedium;
   font-size:27px;
   padding: 15px;
-  color:#33584A;
+  color:#f1eae0;
 
 }
 
@@ -221,8 +221,8 @@ font-size: 85px;
   font-family: RecoletaMedium;
   font-size:27px;
   padding: 15px;
-  margin-bottom: 250px;
-  color:#33584A;
+  margin-bottom: 300px;
+  color:#f1eae0;
 }
 
 .listicon{
@@ -234,13 +234,17 @@ font-size: 85px;
   text-align: center;
    font-family: RecoletaBold;
    color:#33584A;
+   position: relative;
 }
 .categorylineup{
+
 margin-bottom: 120px;
+margin-top: 67px;
 }
 
 .categoriesline{
-margin-bottom: 190px;
+margin-bottom: 220px;
+margin-top: 100px;
 }
 
 .productcategoriesrow{
@@ -253,8 +257,9 @@ margin-bottom: 190px;
 
 .subscribetext{
 
-  margin-top: 300px;
+  margin-top: 295px;
   font-family: NeueHaasDisplayMedium;
+  font-size: 40px;
 
 }
 
@@ -395,38 +400,55 @@ margin-bottom: 120px;
   margin-top: 20px;
 }
 
+.peeled{
+  
+  position: absolute;
+  width:25%;
+  align-self: center;
+  top: 420px;
+}
+
+.peels{
+  position: absolute;
+  width:10%;
+  align-self: center;
+  top: 2590px;
+  margin-left: 610px;  
+}
+
 .flowertwo{
   position: absolute;
-   margin-top:170px;
+   margin-top:90px;
     margin-left:520px;
-    width:6%;
+    width:20%;
 }
 
 .green{
   position: absolute;
-   margin-top:320px;
-    margin-left:390px;
-    width:7%;
+   margin-top:330px;
+    margin-left:240px;
+    width:23%;
       
 }
 
 .lagosbling{
   position: absolute;
-   margin-top:225px;
+   margin-top:265px;
   margin-left:900px;
-  width:9%;
+  width:24%;
 }
 
 .firstblackstar{
   position: absolute;
    margin-top:650px;
-    margin-left:1105px;
+    margin-left:990px;
      width:10%;
 }
 
 .secondblackstar{
   position: absolute;
   width:10%;
+  margin-top: 45px;
 }
 
 .downarrow{
@@ -441,6 +463,43 @@ margin-bottom: 120px;
    margin-left:420px;
     width:10%;
 }
+
+.orangestamp{
+  position: absolute;
+  width:12%;
+  margin-left: 140px;
+  top:478%;  
+}
+
+.meatstamp{
+  position: absolute;
+  width:17%;
+  margin-left: 100px;
+  top:3735px;  
+}
+
+.breadstamp{
+  position: absolute;
+  width:17%;
+  margin-left: 100px;
+  top:3970px; 
+}
+
+.spicestamp{
+  position: absolute;
+  width:20%;
+  margin-left: 75px;
+  top:4185px;   
+}
+
+.aboutstamp{
+position: absolute;
+  width:13%;
+  left: 49%;
+  top:1520px; 
+}
+
+
 
 .aboutpagediv{
   height:100%;
@@ -522,8 +581,10 @@ margin-bottom: 120px;
 
 .ceoname{
   font-family: RecoletaMedium;
-  margin-top:40px;
+  padding-top:55px;
   font-size:20px;
+  position: absolute;
+  text-align: center;
 }
 
 
@@ -584,6 +645,19 @@ margin-bottom: 120px;
    color:black;
 }
 
+.soonimage{
+  width:570px;
+  height: 600px; 
+  
+}
+
+.soontext{
+  font-family: DoyleBlack;
+  font-size: 50px;
+  position: relative;
+  align-self: center;
+}
+
 
 
 
@@ -604,7 +678,7 @@ and (max-width:480px) {
   }
 
   .homepagetitle{
-    font-size: 71px;
+    font-size: 72px;
     margin-top: 60px;
   }
 
@@ -613,7 +687,7 @@ and (max-width:480px) {
   }
 
   .homepagesubtitle{
-    font-size: 19px;
+    font-size: 20px;
     margin-top: 60px;
   }
 
@@ -625,6 +699,12 @@ and (max-width:480px) {
     margin-left: 280px;
     margin-top: 52px;
     width:21%;
+  }
+
+  .peeled{
+    top: 323px;
+    width:45%;
+    margin-left: 7px;
   }
   .homepageaftersub{
     font-size: 17px;
@@ -645,15 +725,23 @@ and (max-width:480px) {
     font-size: 18px;
     
   }
+  
   .groceryimageone{
     
-    width:350px;
-    height:440px;
+    width:450px;
+    height:450px;
     margin-left: 0px;
     padding: 0px;
     margin-top: 100px;
     
     
+    
+  }
+
+  .peels{
+    margin-left: 147px;
+    margin-top: 380px;
+    width:18%;
   }
 
   .imagehack{
@@ -675,8 +763,27 @@ and (max-width:480px) {
 
   .textunderfinal{
     font-size: 19px;
-    margin-bottom: 60px;
+    margin-bottom: 110px;
     margin-top: 20px;
+  }
+
+  .meatstamp{
+    top:4184px;
+    margin-left: 2px;
+    width: 27%;
+  }
+
+  .breadstamp{
+    top:4393px;
+    margin-left: 2px;
+    width: 27%;
+  }
+
+
+  .spicestamp{
+   top:4610px;
+   margin-left: 0px;
+   width: 28%;
   }
 
   .break{
@@ -684,7 +791,7 @@ and (max-width:480px) {
   }
 
   .groceryimagetwo{
-    width:350px;
+    width:380px;
     height:460px;
     margin-top:65px;
     padding: 0px; 
@@ -737,7 +844,7 @@ and (max-width:480px) {
 }
 
 .productcategories{
-  font-size: 18px;
+  font-size: 13px;
   
 }
 
@@ -810,20 +917,20 @@ and (max-width:480px) {
 }
 
 .green{
-  margin-left: 20px;
+  margin-left: 0px;
   margin-top: 260px;
-  width:12%;
+  width:35%;
 }
 
 .flowertwo{
   margin-left: 170px;
   margin-top: 110px;
-  width:16%;
+  width:35%;
 }
 
 .lagosbling{
-  margin-left: 240px;
-  width:25%;
+  margin-left: 210px;
+  width:40%;
   margin-top: 290px;
 }
 
@@ -844,7 +951,13 @@ and (max-width:480px) {
   margin-left: 170px;
 }
 
+.meatstamp{
+
+}
+
+
 .categoriesline{
+  
   margin-bottom: 70px;
 }
 
@@ -956,6 +1069,9 @@ and (max-width:480px) {
   font-size: 17px;
 }
 }
+
+
+
 
 
 @media only screen 
