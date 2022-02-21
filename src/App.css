@@ -1124,8 +1124,8 @@ and (max-width:768px) {
   }
 
   .homepagesubtitle{
-   padding-top: 86px;
-   font-size: 20px; 
+   padding-top: 119px;
+   font-size: 17px; 
   }
 
   .topflower{
@@ -1192,9 +1192,9 @@ and (max-width:768px) {
 
   .groceryimageone{
     
-    width:300px;
-    height: 350px;
-    margin-top: 150px;
+    width:250px;
+    height: 400px;
+    margin-top: 50px;
     
   }
 
@@ -1231,11 +1231,14 @@ and (max-width:768px) {
   }
 
   .whygarden{
-    font-size: 30px;
+    font-size: 25px;
+   
   }
 
   .deliverytext{
     font-size: 20px;
+    padding: 0px;
+    margin-top: 19px;
   }
 
   .deliveryicon{
@@ -1248,6 +1251,7 @@ and (max-width:768px) {
 
   .qualitytext{
     font-size: 20px;
+    padding: 0px;
   }
 
   .listicon{
@@ -1256,6 +1260,7 @@ and (max-width:768px) {
 
   .listtext{
     font-size: 20px;
+    padding: 0px;
   }
 
   .productcategories{
@@ -1354,6 +1359,7 @@ and (max-width:1280px) {
     margin-left: 0px;
   }
 
+ 
   .lagosbling{
     margin-left: 600px;
     margin-top: 500px;
