@@ -732,10 +732,11 @@ and (max-width:480px) {
   
   .groceryimageone{
     
-    width:450px;
-    height:480px;
+    width:320px;
+    height:500px;
     margin-left: 0px;
-    padding: 0px;
+    
+    margin: 20px;
     margin-top: 100px;
     
     
