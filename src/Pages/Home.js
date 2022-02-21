@@ -33,7 +33,7 @@ import orangefruit from "../Images/orangefruit.png"
 import pepper from "../Images/pepper.png"
 import avo from "../Images/avo.png"
 import peeled from "../Images/peeled.png"
-import phoned from "../Images/phoned.png"
+import phoneg from "../Images/phoneg.png"
 
 
 
@@ -219,7 +219,7 @@ alt="y"
 
 <img
 className='groceryimageone'
-src={phoned}
+src={phoneg}
 alt="page"
 />
 
