@@ -776,19 +776,22 @@ and (max-width:480px) {
     top:4223px;
     margin-left: 1px;
     width: 28%;
+    display: none;
   }
 
   .breadstamp{
     top:4430px;
     margin-left: 0px;
     width: 28%;
+    display: none;
   }
 
 
   .spicestamp{
-   margin-top:460px;
+   margin-top:458px;
    margin-left: 0px;
    width: 28%;
+   display: none;
   }
 
   .break{
@@ -836,9 +839,7 @@ and (max-width:480px) {
   margin-bottom: 160px;
   
 }
-.productcategories{
-  font-size: 8px;
-}
+
 
 .subscribetext{
   margin-top: 180px;
@@ -850,7 +851,7 @@ and (max-width:480px) {
 }
 
 .productcategories{
-  font-size: 12px;
+  font-size: 18px;
   
 }
 
