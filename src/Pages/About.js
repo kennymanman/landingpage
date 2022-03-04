@@ -56,7 +56,7 @@ alt="d"
 
 <ReactBootStrap.Col sm={6} >
 
-<p className='info' >Our startup Garden was founded in 2020. Garden was created to provide quality groceries, variety of products and accessibility to these groceries to our customers.
+<p className='info' >Our startup Garden was founded in 2022. Garden was created to provide quality groceries, variety of products and accessibility to these groceries to our customers.
  During the pandemic alot of families couldn't gain access to quality groceries and at the time where one's daily food intake was important to protect their health. With the Garden app you can now order quality products,
  make your own personalized grocery list and enjoy varieties of grocery boxes. For how you can recommend better solutions feel free to contact us.</p> 
 
@@ -65,7 +65,7 @@ alt="d"
 <img
 className='aboutstar' 
 src={Blackstar}
-alt="d"
+alt="Garden groceries in Lagos"
 />
 
 </ReactBootStrap.Col>
@@ -89,23 +89,23 @@ alt="d"
 <img 
 className='nextaboutstar'
 src={Blackstar}
-alt="d"
+alt="About Garden groceries"
 />
 
 
 <img 
 className='ceoimage'
 src={foodhun}
-alt="d"
+alt="CEO of Garden grocery store"
 />
 
 <img 
 className='aboutstamp'
  src={orangestamp}
-  alt="d"
+  alt="92, Lanre Awolokun Gbagada phase 2, Lagos."
 />
 
-<h3 className='ceoname' >Brian Ele.<br/>CEO of Garden.</h3>
+<h3 className='ceoname' >Okafor Ekene.<br/>CEO of Garden.</h3>
 
 </ReactBootStrap.Col>
 </ReactBootStrap.Row>

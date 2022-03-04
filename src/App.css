@@ -178,17 +178,17 @@ margin-top: 200px;
 }
 
 .groceryimagetwo{
-  width:720px;
-   height:850px;
+  width:770px;
+   height:560px;
    padding: 10px;
-   margin-top: 0px;
+   margin-top: 65px;
   
 }
 
 .whygarden{
   font-family: RecoletaSemiBold;
    font-size:44px;
-   margin-top: 65px;
+   margin-top: 100px;
    color:#33584A;
 
 }
@@ -448,7 +448,7 @@ margin-bottom: 120px;
 .secondblackstar{
   position: absolute;
   width:10%;
-  margin-top: 45px;
+  margin-top: 0px;
 }
 
 .downarrow{
@@ -475,7 +475,7 @@ margin-bottom: 120px;
   position: absolute;
   width:17%;
   margin-left: 100px;
-  top:3735px;  
+  top:3738px;  
 }
 
 .breadstamp{
@@ -674,7 +674,7 @@ and (max-width:480px) {
 
 
   .homepagediv{
-    padding:13px
+    padding:14px
   }
 
   .headergardentext{
@@ -684,6 +684,8 @@ and (max-width:480px) {
   .homepagetitle{
     font-size: 72px;
     margin-top: 60px;
+    
+    
   }
 
   .homepagenexttitle{
@@ -703,12 +705,15 @@ and (max-width:480px) {
     margin-left: 280px;
     margin-top: 52px;
     width:21%;
+    
   }
 
   .peeled{
-    top: 308px;
+    top: 304px;
     width:49%;
     margin-left: 7px;
+    
+    
   }
   .homepageaftersub{
     font-size: 17px;
@@ -718,11 +723,13 @@ and (max-width:480px) {
     margin-top: 200px;
     font-size: 25px;
     margin-bottom: 180px;
+    
   }
   
   .availabletext{
     font-size: 23px;
     margin-top: 30px;
+    
   }
 
   .availablesub{
@@ -732,26 +739,29 @@ and (max-width:480px) {
   
   .groceryimageone{
     
-    width:310px;
-    height:500px;
-    margin-left: 0px;
-    
-    margin: 20px;
     margin-top: 100px;
-    
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:180%;
+    height: 83%;
+    padding: 2px;
     
   }
 
   .peels{
-    margin-left: 138px;
-    margin-top: 450px;
-    width:18%;
+    
+    margin-top: 480px;
+    width:20%;
+    margin-left: 38%;
+
+
+    
   }
 
   .imagehack{
     text-align: center;
-    margin:10px auto;
+    margin:0px auto;
   }
 
  
@@ -760,16 +770,22 @@ and (max-width:480px) {
     font-size: 30px;
     margin-bottom: 50px;
     margin-top: 120px;
+    
+    
   }
 
   .textunderunder{
     font-size: 18px;
+    
+    
   }
 
   .textunderfinal{
     font-size: 19px;
     margin-bottom: 200px;
     margin-top: 20px;
+    
+  
   }
 
   .meatstamp{
@@ -799,33 +815,50 @@ and (max-width:480px) {
   }
 
   .groceryimagetwo{
-    width:380px;
-    height:460px;
-    margin-top:65px;
-    padding: 0px; 
+   
+    
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    height: 84%;
+    padding:3px;
+      
   }
+
+
+
   .whygarden{
     font-size: 29px;
-    margin-top: 10px;
+    margin-top: 120px;
     text-align: center;
+    
+    
+  
+    
   }
 
   .deliverytext{
     font-size: 19px;
+   
   
   }
 .deliveryicon{
   font-size: 49px;
   margin: 9px;
+  
 }
 
 .qualityicon{
   font-size: 49px;
   margin: 9px;
+  
 }
 
 .qualitytext{
   font-size: 19px;
+  
   
 }
 
@@ -844,6 +877,7 @@ and (max-width:480px) {
 .subscribetext{
   margin-top: 180px;
   font-size: 33px;
+  
 }
 
 .categorylineup{
@@ -853,14 +887,17 @@ and (max-width:480px) {
 .productcategories{
   font-size: 18px;
   
+  
 }
 
 .placeholder{
-  width:270px
+  width:270px;
+  
 }
 
 .placeholderline{
   width:290px;
+  margin-right: 90px;
 }
 
 .bottomhorizontalline{
@@ -927,24 +964,27 @@ and (max-width:480px) {
   margin-left: 0px;
   margin-top: 260px;
   width:40%;
+  
 }
 
 .flowertwo{
   margin-left: 170px;
-  margin-top: 110px;
+  margin-top: 90px;
   width:40%;
+  
 }
 
 .lagosbling{
-  margin-left: 210px;
+  margin-left: 180px;
   width:48%;
   margin-top: 290px;
+  
 }
 
 .firstblackstar{
   margin-left: 0px;
-  margin-top: 940px;
-  width:27%;
+  margin-top: 928px;
+  width:29%;
 }
 
 .secondblackstar{
@@ -972,13 +1012,18 @@ and (max-width:480px) {
   width:27%;
   margin-left: 0px;
   margin-top: 30px; 
+  
 }
 
 .groceryimagethree{
-  width:350px;
-  align-self: center;
-  height:460px;
+  width:100%;
+  height: 110%;
+  display: block;
   margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
 }
 
 .headerabouttext{
@@ -1035,6 +1080,7 @@ and (max-width:480px) {
 .foundertitle{
   font-size: 50px;
   margin-top: 10px;
+  margin-right: 190px;
 }
 
 .nextaboutstar{
@@ -1044,21 +1090,34 @@ and (max-width:480px) {
 }
 
 .ceoimage{
-  width: 350px;
-  height:450px;
+  
   margin-top:90px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width:100%;
+  height: 100%;
+  padding-bottom: 60px;
+
 
 }
 
 .aboutstamp{
-  margin-top: 430px;
+top: 251%;
   width: 37%;
-  left: 4px;
+align-self: center;
+left:32%;
+display: none;  
+
 }
 
 .ceoname{
   font-size: 17px;
+  padding-top: 0px;
+  
+  
 }
+
 
 .contactpagediv{
   padding: 15px;
@@ -1097,6 +1156,8 @@ and (max-width:480px) {
 
 
 
+
+
 @media only screen 
 and (min-width:480px)
 and (max-width:768px) {
@@ -1124,26 +1185,28 @@ and (max-width:768px) {
   }
 
   .homepagesubtitle{
-   padding-top: 119px;
-   font-size: 17px; 
+   padding-top: 78px;
+   font-size: 19px; 
   }
 
   .topflower{
-    margin-left: 380px;
+    margin-left: 360px;
   }
 
   .flowertwo{
     margin-top: 50px;
-    margin-left: 350px;
+    margin-left: 320px;
   }
 
   .green{
-    margin-left: 90px;
-    margin-top: 200px;
+    margin-left: 10px;
+    margin-top: 270px;
+  
   }
 
   .lagosbling{
-    margin-left: 450px;
+    left: 10px;
+    display: none;
   }
 
   
@@ -1155,7 +1218,7 @@ and (max-width:768px) {
 
   .lagostext{
     font-size: 30px;
-    margin-top: 130px;
+    margin-top: 160px;
   }
 
   .availabletext{
@@ -1199,12 +1262,15 @@ and (max-width:768px) {
   }
 
   .firstblackstar{
-    margin-left: 550px;
+    margin-left: 100px;
+    margin-top: 300px;
+    display: none;
   }
 
 .thirdblackstar{
   margin-left: 230px;
   margin-top: 550px;
+  display: none;
 }
 
   .lastbuttonrow{
@@ -1222,11 +1288,12 @@ and (max-width:768px) {
 
   .textunderfinal{
     font-size: 20px;
+    margin-bottom: 120px;
   }
 
   .groceryimagetwo{
-    width:300px;
-    height: 350px;  
+    width:400px;
+    height: 300px;  
     align-self: flex-start;
   }
 
@@ -1334,7 +1401,20 @@ and (max-width:768px) {
 .contactpagediv{
   padding:19px;
 }
+
+.soontext{
+  font-size: 20px;
+  margin-top: 50px;
 }
+
+.soonimage{
+  width:350px;
+  height:400px;
+}
+}
+
+
+
 
 
 @media only screen 
@@ -1343,7 +1423,25 @@ and (max-width:1280px) {
 
 
 .homepagediv{
-  padding: 13px
+  padding: 35px
+}
+
+.homepagetitle{
+  width:120%;
+  margin-top: 110px;
+}
+
+.homepageyear{
+  display: none;
+}
+
+.topflower{
+  margin-top: 70px;
+  width:17%;
+}
+
+.homepageaftersub{
+  display: none;
 }
 
 
@@ -1352,30 +1450,44 @@ and (max-width:1280px) {
   }
 
   .homepagesubtitle{
-    margin-top: 100px;
+    margin-top: 109px;
+    display: none;
   }
 
   .groceryimageone{
     margin-left: 0px;
+    
+  }
+
+  .groceryimagetwo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    height: 54%;
+    padding:3px;
+    
   }
 
  
   .lagosbling{
-    margin-left: 600px;
-    margin-top: 500px;
+    margin-left: 500px;
+    margin-top: 400px;
+    display: none;
   }
 
   .green{
-    margin-left: 200px;
+    margin-left: 100px;
   }
 
   .firstblackstar{
-    margin-left: 800px;
-    margin-top: 700px;
+    margin-left: 650px;
+    margin-top: 640px;
   }
 
   .thirdblackstar{
     margin-left: 400px;
+    
     
   }
 
@@ -1407,4 +1519,26 @@ and (max-width:1280px) {
   .aboutstamp{
     display: none;
   }
+
+  .textunderfinal{
+    margin-bottom: 120px;
+  }
+
+  .lagostext{
+    font-size: 30px;
+  }
+
+ 
+
+  .soontext{
+    font-size: 20px;
+    margin-top: 50px;
+  }
+  
+  .soonimage{
+    width:350px;
+    height:400px;
+  }
+
+
 }

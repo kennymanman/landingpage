@@ -35,7 +35,8 @@ import avo from "../Images/avo.png"
 import peeled from "../Images/peeled.png"
 import phoneg from "../Images/phoneg.png"
 
-
+import hinn from "../Images/hinn.png"
+import boxy from "../Images/boxy.png"
 
 
 export default function Home() {
@@ -113,7 +114,7 @@ alt="page"
 
 style={{width:140, height:149, margin:3, position:"relative"}} 
 src={Appstorebutton}
-alt="b"
+alt="Garden Grocery Store App"
 />
 </a>
 
@@ -121,7 +122,7 @@ alt="b"
 <img
 style={{width:140, height:149, margin:3, position:"relative"}} 
 src={Googleplaybutton}
-alt="y"
+alt="Garden Grocery Store App"
 />
 </a>
 
@@ -196,7 +197,7 @@ create a grocerylist for Wednesday while working on a Monday morning. Relax and 
 <img
 style={{width:140, height:149, margin:3}} 
 src={Appstorebutton}
-alt="b"
+alt="Appstore groceries near me"
 />
 </a>
 
@@ -205,7 +206,7 @@ alt="b"
 <img
 style={{width:140, height:149, margin:3}} 
 src={Googleplaybutton}
-alt="y"
+alt="Googleplaystore groceries near me"
 />
 </a>
 
@@ -220,7 +221,7 @@ alt="y"
 <img
 className='groceryimageone'
 src={phoneg}
-alt="page"
+alt="Garden grocery store app"
 />
 
  
@@ -229,14 +230,14 @@ alt="page"
 </ReactBootStrap.Row>
 
 
-<h4 className='textunder' >Hey There</h4>
+<h4 className='textunder' >Hey there</h4>
 
 
 <div style={{border:30}}>
 <h5 className='textunderunder'>
 Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?,
- And you could create your own grocery list?, <br className='break'/>
-Also have it delivered on any day of your choosing even at work.
+ and you could create your own grocery list?,  <br className='break'/>
+also have it delivered while stuck in traffic or even at work.
 
 </h5>
 
@@ -245,19 +246,20 @@ Also have it delivered on any day of your choosing even at work.
 
 </div>
 
+
 <img 
 className='peeled'
  src={peeled}
-  alt="d"
+  alt="Lagos grocery"
 />
 
-
+<div>
 <img 
 className='peels'
  src={orangeflora}
-  alt="d"
+  alt="Lagos groceries near me"
 />
-
+</div>
 
 
 
@@ -266,23 +268,23 @@ className='peels'
 className='secondblackstar'
 style={{}}
  src={Blackstar}
-  alt="d"
+  alt="Garden groceries"
 />
 
 <ReactBootStrap.Row  >
-<ReactBootStrap.Col >
+<ReactBootStrap.Col sm={7} >
 
 <img
 className='groceryimagetwo'
-src={nox}
-alt="v"
+src={boxy}
+alt="Garden grocery box"
 />
 
 </ReactBootStrap.Col>
 
 
 
-<ReactBootStrap.Col >
+<ReactBootStrap.Col sm={5} >
 
   <h3 className='whygarden' >Why Garden?</h3>
 
@@ -305,7 +307,7 @@ alt="v"
 <img 
 className='meatstamp'
  src={orangestamp}
-  alt="d"
+  alt="Fruits"
 />
 
 <h3 className='productcategories' >Fruits</h3>
@@ -317,7 +319,7 @@ className='meatstamp'
 <img 
 className='meatstamp'
  src={orangestamp}
-  alt="d"
+  alt="Vegetables"
 />
 <h3 className='productcategories'>Vegetables</h3>
 </ReactBootStrap.Col>
@@ -326,7 +328,7 @@ className='meatstamp'
 <img 
 className='meatstamp'
  src={orangestamp}
-  alt="d"
+  alt="Meat and Seafood"
 />
 <h3 className='productcategories'>Meat & Seafood</h3>
 </ReactBootStrap.Col>
@@ -341,7 +343,7 @@ className='meatstamp'
 <img 
 className='breadstamp'
  src={orangestamp}
-  alt="d"
+  alt="Bread"
 />
 <h3 className='productcategories' >Bread & Bakery</h3>
 </ReactBootStrap.Col>
@@ -352,7 +354,7 @@ className='breadstamp'
 <img 
 className='breadstamp'
  src={orangestamp}
-  alt="d"
+  alt="Dairy and eggs"
 />
 
 <h3 className='productcategories'>Dairy & Eggs</h3>
@@ -362,7 +364,7 @@ className='breadstamp'
 <img 
 className='breadstamp'
  src={orangestamp}
-  alt="d"
+  alt="Drinks"
 />
 <h3 className='productcategories'>Drinks</h3>
 </ReactBootStrap.Col>
@@ -379,7 +381,7 @@ className='breadstamp'
 <img 
 className='spicestamp'
  src={orangestamp}
-  alt="d"
+  alt="Spices"
 />
 <h3 className='productcategories'>Spices, Sauces & Oil</h3>
 </ReactBootStrap.Col>
@@ -388,7 +390,7 @@ className='spicestamp'
 <img 
 className='spicestamp'
  src={orangestamp}
-  alt="d"
+  alt="Pasta"
 />
 <h3 className='productcategories'>Pasta & Grains</h3>
 </ReactBootStrap.Col>
@@ -397,7 +399,7 @@ className='spicestamp'
 <img 
 className='spicestamp'
  src={orangestamp}
-  alt="d"
+  alt="Pantry"
 />
 <h3 className='productcategories'>Pantry & Tubers</h3>
 </ReactBootStrap.Col>
@@ -439,14 +441,14 @@ alt="w"
 className='thirdblackstar'
 style={{}}
  src={Blackstar}
-  alt="d"
+  alt="Lagos"
 />
 
 <ReactBootStrap.Image
 className='groceryimagethree'
          
          src={food}
-         alt="page"
+         alt="Gardengrocerystore.com"
          />
 
 </ReactBootStrap.Col>
