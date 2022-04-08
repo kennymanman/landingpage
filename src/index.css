@@ -143,9 +143,19 @@ code {
 
 
 @font-face {
-  font-family: "BogartBlackItalic";
-  src: local("RecoletaBlack"),
-    url("./fonts/Bogart-Black-Italic-trial.ttf") format("truetype");
+  font-family: "CooperBlackRegular";
+  src: local("CooperBlackRegular"),
+    url("./fonts/CooperBlackRegular.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+  
+}
+
+
+@font-face {
+  font-family: "CooperNoveau";
+  src: local("CooperNoveau"),
+    url("./fonts/CooperNouveau.otf") format("opentype");
     font-weight: 900;
     font-style: normal;
   

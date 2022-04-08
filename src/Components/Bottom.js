@@ -26,7 +26,7 @@ style={{position:"absolute", width:300}}
 
 
 
-<h2 className="bottomgardentext"  style={{fontFamily:"RecoletaBold"}}>Garden<h8 className="bottomgardenbutton" >.</h8></h2>
+<h2 className="bottomgardentext"  style={{fontFamily:"CooperNoveau"}}>Garden<h8 className="bottomgardenbutton" >.</h8></h2>
   </ReactBootStrap.Col>
 
   <ReactBootStrap.Col sm={2}>

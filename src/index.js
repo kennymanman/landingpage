@@ -19,6 +19,8 @@ import "./fonts/Doyle-Black.ttf"
 import "./fonts/Bogart-Extrabold-Italic-trial.ttf"
 import "./fonts/Bogart-Bold-trial.ttf"
 import "./fonts/Bogart-Black-Italic-trial.ttf"
+import "./fonts/CooperNouveau.otf"
+import "./fonts/CooperBlackRegular.ttf"
 import { HelmetProvider } from 'react-helmet-async';
 
 

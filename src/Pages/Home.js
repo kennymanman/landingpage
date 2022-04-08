@@ -10,6 +10,8 @@ import food from "../Images/food.jpg"
 import Flower from "../Svg/Flower.svg"
 import Blackstar from "../Svg/Blackstar.svg"
 import Downpoint from "../Svg/Downpoint.svg"
+
+
 import Orangeballwithdots from "../Svg/Orangeballwithdots.svg"
 import Cactus from "../Svg/Cactus.svg"
 import Greenpetal from "../Svg/Greenpetal.svg"
@@ -22,8 +24,10 @@ import orangestamp from "../Svg/orangestamp.svg"
 
 
 import {BiPackage} from "react-icons/bi";
+import {IoFlowerOutline} from "react-icons/io5";
 import {RiLeafLine} from "react-icons/ri";
 import {TiThListOutline} from "react-icons/ti";
+import { VscChecklist } from "react-icons/vsc"
 
 import {HiArrowRight} from "react-icons/hi";  
 
@@ -35,8 +39,14 @@ import avo from "../Images/avo.png"
 import peeled from "../Images/peeled.png"
 import phoneg from "../Images/phoneg.png"
 
-import hinn from "../Images/hinn.png"
-import boxy from "../Images/boxy.png"
+import alert from "../Images/alert.png"
+import lemon from "../Images/lemon.png"
+
+import boxnew from "../Images/boxnew.png"
+
+
+
+
 
 
 export default function Home() {
@@ -67,10 +77,16 @@ style={{position:"absolute", width:"100%", height:"100%", objectFit:"cover", min
 <link rel="canonical" href="https://www.gardengrocerystore.com/" />
 <head>Groceries Near Me</head>
 <body>
-The Best Grocery Delivery Near Me
-Your Favorite Grocery Store
+  Garden food.
+  Garden com
+  Nigeria.
+  Lagos.
+  Price
+  Buy.
+The Best Grocery Delivery Near Me.
+Your Favorite Grocery Store.
 We Sell A Variety Of Fresh Groceries.
-Garden Grocery Store
+Garden Grocery Store.
 Groceries Delivered.
 Vegetables, Fruit, Grocery Boxes.
 Best Place for Grocery Shopping in Lagos.
@@ -157,7 +173,7 @@ className='green'
 
 <img 
 className='flowertwo'
- src={orangefruit}
+ src={lemon}
   alt="d"
 />
 
@@ -230,18 +246,18 @@ alt="Garden grocery store app"
 </ReactBootStrap.Row>
 
 
-<h4 className='textunder' >Hey there</h4>
+<h4 className='textunder' >Hey there...</h4>
 
 
 <div style={{border:30}}>
 <h5 className='textunderunder'>
-Did you know it costs just ₦1000 to have your groceries delivered <br className='break'/> anywhere in Lagos?,
- and you could create your own grocery list?,  <br className='break'/>
-also have it delivered while stuck in traffic or even at work.
+Get affordable groceries, create grocery lists,  have them delivered to your doorstep<br className='break'/>on time
+ and plant the empty boxes to keep the earth green and clean. <br className='break'/>
+Also have it delivered while stuck in traffic or even at work.
 
 </h5>
 
-<h6 className='textunderfinal'>Imagine a box full of ingredients for egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
+<h6 className='textunderfinal'>Imagine a box full of ingredients for Egusi soup or just<br className='break'/> fresh bread and a cup of freshly squeezed juice at your office.</h6>
 
 
 </div>
@@ -256,7 +272,7 @@ className='peeled'
 <div>
 <img 
 className='peels'
- src={orangeflora}
+ src={alert}
   alt="Lagos groceries near me"
 />
 </div>
@@ -276,7 +292,7 @@ style={{}}
 
 <img
 className='groceryimagetwo'
-src={boxy}
+src={boxnew}
 alt="Garden grocery box"
 />
 
@@ -290,9 +306,9 @@ alt="Garden grocery box"
 
  <h5 className='deliverytext'> <BiPackage className='deliveryicon'  /> Quick Delivery</h5>
 
- <h5 className='qualitytext' > <RiLeafLine className='qualityicon'  /> Quality Products</h5>
+ <h5 className='qualitytext' > <IoFlowerOutline className='qualityicon'  /> Quality Products</h5>
 
- <h5 className='listtext'> <TiThListOutline className='listicon'/> Create Grocery Lists</h5>
+ <h5 className='listtext'> <VscChecklist className='listicon'/> Create Grocery Lists</h5>
 </ReactBootStrap.Col>
 
 </ReactBootStrap.Row>

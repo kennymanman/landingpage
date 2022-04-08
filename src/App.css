@@ -1,24 +1,24 @@
 
 .headergardentext{
   color: black;
-  font-family:RecoletaBold;
-  font-size: 30px;
+  font-family:CooperNoveau;
+  font-size: 37px;
 }
 
 .gardentextdot{
-  color: orange;
+  color: black;
 }
 
 .headerabouttext{
   color: black;
-  font-family: RecoletaMedium;
+  font-family: CooperNoveau;
   font-size: 21px;
     
 }
 
 .headercontacttext{
 color: black;
-font-family: RecoletaMedium;
+font-family: CooperNoveau;
 font-size: 21px;
   
 }
@@ -40,17 +40,17 @@ font-size: 21px;
 
 .homepagetitle{
   
-  padding-top: 33px;
+  padding-top: 35px;
   text-align: left;
   color:#33584A;
   font-size: 139px;
-  font-family:RecoletaBold;  
+  font-family:CooperNoveau;  
 }
 
 .homepagenexttitle{
 font-family: RecoletaMedium;
 color:#33584A;
-padding-top: 1px;
+padding-top: 0px;
 font-size: 29px;
 }
 
@@ -102,13 +102,13 @@ font-size: 29px;
   font-size: 40px;
   margin-bottom: 250px;
   position: relative;
-  font-family: RecoletaMedium;
+  font-family: CooperNoveau;
 }
 
 .availabletext{
 
 position: relative;
-font-family: RecoletaSemiBold;
+font-family: CooperNoveau;
 font-size: 33px;
 color:#33584A;
 }
@@ -142,7 +142,7 @@ color:#33584A;
 .textunder{
   margin-top:190px;
   text-align: center;
-  font-family: RecoletaSemiBold;
+  font-family: CooperNoveau;
   font-size:44px;
   margin-bottom: 50px;
   color:#33584A;
@@ -153,7 +153,7 @@ color:#33584A;
 .textunderfinal{
   text-align: center; 
   color:orangered;
-  font-family: RecoletaMedium;
+  font-family: CooperNoveau;
   font-size: 25px;
   margin-bottom: 450px;
   margin-top: 25px;
@@ -161,8 +161,8 @@ color:#33584A;
 
 
 .textunderunder{
-  font-family: RecoletaRegular;
-  font-size:24px;
+  font-family:  CooperNoveau;
+  font-size:31px;
   margin-bottom: 0px;
   text-align: center; 
   color:#33584A;
@@ -186,7 +186,7 @@ margin-top: 200px;
 }
 
 .whygarden{
-  font-family: RecoletaSemiBold;
+  font-family: CooperNoveau;
    font-size:44px;
    margin-top: 100px;
    color:#33584A;
@@ -232,7 +232,7 @@ font-size: 85px;
 
 .productcategories{
   text-align: center;
-   font-family: RecoletaBold;
+   font-family: CooperNoveau;
    color:#33584A;
    position: relative;
 }
@@ -296,23 +296,23 @@ margin-bottom: 120px;
 }
 
 .bottomgardentext{
-  font-family: RecoletaBlack;
+  font-family: CooperNoveau;
   font-size: 30px;
   color: black;
 
 }
 
 .bottomgardenbutton{
-  color: orange;
+  color: black;
 }
 
 .instagram{
-  font-family: RecoletaMedium;
+  font-family: CooperNoveau;
   font-size: 25px;
 }
 
 .twitter{
-  font-family: RecoletaMedium;
+  font-family: CooperNoveau;
   font-size: 25px;
 }
 
@@ -325,7 +325,7 @@ margin-bottom: 120px;
 }
 
 .facebook{
-font-family: RecoletaMedium;
+font-family: CooperNoveau;
 font-size: 25px;
 
 }
@@ -382,13 +382,13 @@ margin-bottom: 120px;
    font-size:18px;
     text-align: center;
     margin-top:24px;
-    font-family: RecoletaBold;
+    font-family:  CooperNoveau;
 
 }
 
 .recyclelogo{
   color: black;
-  font-size:30px;
+  font-size:39px;
 }
 
 
@@ -406,21 +406,23 @@ margin-bottom: 120px;
   width:25%;
   align-self: center;
   top: 420px;
+  display: none;
 }
 
 .peels{
   position: absolute;
-  width:10%;
+  width:45%;
   align-self: center;
-  top: 2590px;
-  margin-left: 610px;  
+  top: 2490px;
+  margin-left: 350px;  
+
 }
 
 .flowertwo{
   position: absolute;
-   margin-top:90px;
+   margin-top:10px;
     margin-left:520px;
-    width:20%;
+    width:39%;
 }
 
 .green{
@@ -475,28 +477,28 @@ margin-bottom: 120px;
   position: absolute;
   width:17%;
   margin-left: 100px;
-  top:3738px;  
+  top:3762px;  
 }
 
 .breadstamp{
   position: absolute;
   width:17%;
   margin-left: 100px;
-  top:3970px; 
+  top:3990px; 
 }
 
 .spicestamp{
   position: absolute;
   width:20%;
   margin-left: 75px;
-  top:4185px;   
+  top:4209px;   
 }
 
 .aboutstamp{
 position: absolute;
   width:13%;
   left: 49%;
-  top:1520px; 
+  top:1529px; 
 }
 
 
@@ -514,7 +516,7 @@ position: absolute;
 
 .aboutustitle{
   text-align: left;
-  font-family: RecoletaBold;
+  font-family: CooperNoveau;
    font-size:70px;
     margin-top:90px;
     color: black;
@@ -534,7 +536,7 @@ position: absolute;
 }
 
 .better{
-  font-family: RecoletaSemiBold;
+  font-family: CooperNoveau;
    font-size:21px;
 }
 
@@ -545,7 +547,7 @@ position: absolute;
 }
 
 .subinfo{
-  font-family: RecoletaSemiBold;
+  font-family: CooperNoveau;
   margin-top: 5px;
 }
 
@@ -563,7 +565,7 @@ position: absolute;
 
 .foundertitle{
   text-align: left;
-   font-family: RecoletaBold;
+   font-family: CooperNoveau;
     font-size:70px;
      color: black;
 }
@@ -597,7 +599,7 @@ position: absolute;
 .contacttitle{
   color:#e65233;
   font-size:130px;
-   font-family: RecoletaBold;
+   font-family:  CooperNoveau;
   margin-top:50px;
 }
 
@@ -629,19 +631,19 @@ position: absolute;
 
 .contactinstagram{
   margin-top:70px;
-  font-family: RecoletaSemiBold;
+  font-family:  CooperNoveau;
    color:black;
 }
 
 .contacttwitter{
   margin-top:30px;
-  font-family: RecoletaSemiBold;
+  font-family:  CooperNoveau;
    color:black;
 }
 
 .contactfacebook{
   margin-top:30px;
-  font-family: RecoletaSemiBold;
+  font-family:  CooperNoveau;
    color:black;
 }
 
@@ -751,9 +753,9 @@ and (max-width:480px) {
 
   .peels{
     
-    margin-top: 480px;
-    width:20%;
-    margin-left: 38%;
+    margin-top: 590px;
+    width:80%;
+    margin-left: 6%;
 
 
     
@@ -968,9 +970,9 @@ and (max-width:480px) {
 }
 
 .flowertwo{
-  margin-left: 170px;
-  margin-top: 90px;
-  width:40%;
+  margin-left: 60px;
+  margin-top: 40px;
+  width:78%;
   
 }
 
