@@ -75,6 +75,15 @@ style={{position:"absolute", width:"100%", height:"100%", objectFit:"cover", min
 <title>Garden Grocery Store | Groceries At Your Doorstep</title>
 <meta name="description" content="Shop Quality Groceries, Enjoy Varieties Of Grocery Boxes, Create Grocery Lists & Have It Delivered Anytime And Anyday. Download The App & Get Started." />
 <link rel="canonical" href="https://www.gardengrocerystore.com/" />
+
+<link
+          rel="image"
+          type="image/png"
+          href="https://c.stocksy.com/a/ximF00/za/3762219.jpg"
+          sizes="50x50"
+        />
+
+
 <head>Groceries Near Me</head>
 <meta keywords= "Garden food, Garden com, Nigeria, Lagos, Price, Buy, The Best Grocery Delivery Near Me, Your Favorite Grocery Store, We Sell A Variety Of Fresh Groceries, Garden Grocery Store, Groceries Delivered, Vegetables, Fruit, Grocery Boxes, Best Place for Grocery Shopping in Lagos "
   />
