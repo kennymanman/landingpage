@@ -22,14 +22,8 @@ return (
 
 <link rel="canonical" href="https://www.gardengrocerystore.com/about" />
 <head>Garden Groceries Near Me</head>
-<body>
-The Best Grocery Delivery Near Me
-Your Favorite Grocery Store
-Garden Grocery Store
-Groceries Delivered.
-Download The App And Get Fresh Groceries
-Best Place for Grocery Shopping in Lagos.
-</body>
+<meta keywords= "The Best Grocery Delivery Near Me,Your Favorite Grocery Store, Garden Grocery Store, Groceries Delivered, Download The App And Get Fresh Groceries, Best Place for Grocery Shopping in Lagos"
+/>
     </Helmet>
 <Header />
           

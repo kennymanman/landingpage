@@ -24,6 +24,7 @@ Twitter: @Gardengroceryng
 <link rel="canonical" href="https://www.gardengrocerystore.com/contact" />
 
 <head>We Would Love To Hear From You</head>
+<meta keywords="Lagos, Nigeria, Shopping, Jumia, Affordable, Groceries" />
 
 </Helmet>
 
