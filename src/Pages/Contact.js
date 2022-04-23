@@ -35,7 +35,7 @@ Twitter: @Gardengroceryng
 <h1 className='contacttitle' >Get In<br/>Touch.</h1>
 
 
-<h3 ><a className='contactemail'  href='mailto:gardenstoreapp@gmail.com'>hello@garden.com</a></h3>
+<h3 ><a className='contactemail'  href='mailto:hello@gardengrocerystore.com'>hello@gardengrocerystore.com</a></h3>
 
 <hr className='emailline' />
 </ReactBootStrap.Col>

@@ -327,6 +327,7 @@ margin-bottom: 120px;
 .facebook{
 font-family: CooperNoveau;
 font-size: 25px;
+color: black;
 
 }
 
@@ -613,7 +614,7 @@ position: absolute;
 }
 
 .emailline{
-  width:300px;
+  width:420px;
 }
 
 .caretext{
@@ -1126,13 +1127,17 @@ display: none;
 }
 
 .contacttitle{
-  font-size: 62px;
+  font-size: 68px;
   margin-bottom: 30px;
 }
 
 .contactemail{
-  font-size: 25px;
+  font-size: 23px;
   
+}
+
+.emailline{
+  width:310px;
 }
 
 .caretext{

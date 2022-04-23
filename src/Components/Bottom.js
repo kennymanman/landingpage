@@ -48,7 +48,7 @@ Lagos.
       
 <p className='phonenumber' >+234 904 567 5432</p>  
 <hr/>
-<p className='email' ><a style={{color:"black", textDecoration:"none"}} href='mailto:gardenstoreapp@gmail.com' target= "blank">info@gardensupport.com</a></p>
+<p className='email' ><a style={{color:"black", textDecoration:"none"}} href='mailto:hello@gardengrocerystore.com' target= "blank">hello@gardengrocerystore.com</a></p>
 <hr className='nextbottomhorizontalline'/>
   </ReactBootStrap.Col>
 </ReactBootStrap.Row>
